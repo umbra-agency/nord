@@ -1,0 +1,1300 @@
+<!DOCTYPE html>
+<html lang="it-IT">
+
+<head>
+	<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-P5DVPX2V');</script>
+<!-- End Google Tag Manager -->
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+		<meta name='robots' content='noindex, follow' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v27.3 - https://yoast.com/product/yoast-seo-wordpress/ -->
+	<title>Pagina non trovata - Ristorante al forte</title>
+	<meta property="og:locale" content="it_IT" />
+	<meta property="og:title" content="Pagina non trovata - Ristorante al forte" />
+	<meta property="og:site_name" content="Ristorante al forte" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https:\/\/schema.org","@graph":[{"@type":"WebSite","@id":"https:\/\/ristorantealforte.com\/#website","url":"https:\/\/ristorantealforte.com\/","name":"Ristorante al forte","description":"Pastrengo","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/ristorantealforte.com\/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"it-IT"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//translate.google.com' />
+<link rel='dns-prefetch' href='//capi-automation.s3.us-east-2.amazonaws.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel="alternate" type="application/rss+xml" title="Ristorante al forte &raquo; Feed" href="https://ristorantealforte.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Ristorante al forte &raquo; Feed dei commenti" href="https://ristorantealforte.com/comments/feed/" />
+<style id="wp-img-auto-sizes-contain-inline-css">
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<style id="wp-emoji-styles-inline-css">
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+/*# sourceURL=wp-emoji-styles-inline-css */
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://ristorantealforte.com/wp-includes/css/dist/block-library/style.css?ver=7.1.4' media='all' />
+<style id="classic-theme-styles-inline-css">
+/**
+ * These rules are needed for backwards compatibility.
+ * They should match the button element rules in the base theme.json file.
+ */
+.wp-block-button__link {
+	color: #ffffff;
+	background-color: #32373c;
+	border-radius: 9999px; /* 100% causes an oval, but any explicit but really high value retains the pill shape. */
+
+	/* This needs a low specificity so it won't override the rules from the button element if defined in theme.json. */
+	box-shadow: none;
+	text-decoration: none;
+
+	/* The extra 2px are added to size solids the same as the outline versions.*/
+	padding: calc(0.667em + 2px) calc(1.333em + 2px);
+
+	font-size: 1.125em;
+}
+
+.wp-block-file__button {
+	background: #32373c;
+	color: #ffffff;
+	text-decoration: none;
+}
+
+/*# sourceURL=/wp-includes/css/classic-themes.css */
+</style>
+<style id="global-styles-inline-css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--neve-link-color: var(--nv-primary-accent);--wp--preset--color--neve-link-hover-color: var(--nv-secondary-accent);--wp--preset--color--nv-site-bg: var(--nv-site-bg);--wp--preset--color--nv-light-bg: var(--nv-light-bg);--wp--preset--color--nv-dark-bg: var(--nv-dark-bg);--wp--preset--color--neve-text-color: var(--nv-text-color);--wp--preset--color--nv-text-dark-bg: var(--nv-text-dark-bg);--wp--preset--color--nv-c-1: var(--nv-c-1);--wp--preset--color--nv-c-2: var(--nv-c-2);--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}.wp-block-button{--wp--preset--dimension--25: 25%;--wp--preset--dimension--50: 50%;--wp--preset--dimension--75: 75%;--wp--preset--dimension--100: 100%;}:where(body) { margin: 0; }:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-neve-link-color-color{color: var(--wp--preset--color--neve-link-color) !important;}.has-neve-link-hover-color-color{color: var(--wp--preset--color--neve-link-hover-color) !important;}.has-nv-site-bg-color{color: var(--wp--preset--color--nv-site-bg) !important;}.has-nv-light-bg-color{color: var(--wp--preset--color--nv-light-bg) !important;}.has-nv-dark-bg-color{color: var(--wp--preset--color--nv-dark-bg) !important;}.has-neve-text-color-color{color: var(--wp--preset--color--neve-text-color) !important;}.has-nv-text-dark-bg-color{color: var(--wp--preset--color--nv-text-dark-bg) !important;}.has-nv-c-1-color{color: var(--wp--preset--color--nv-c-1) !important;}.has-nv-c-2-color{color: var(--wp--preset--color--nv-c-2) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-neve-link-color-background-color{background-color: var(--wp--preset--color--neve-link-color) !important;}.has-neve-link-hover-color-background-color{background-color: var(--wp--preset--color--neve-link-hover-color) !important;}.has-nv-site-bg-background-color{background-color: var(--wp--preset--color--nv-site-bg) !important;}.has-nv-light-bg-background-color{background-color: var(--wp--preset--color--nv-light-bg) !important;}.has-nv-dark-bg-background-color{background-color: var(--wp--preset--color--nv-dark-bg) !important;}.has-neve-text-color-background-color{background-color: var(--wp--preset--color--neve-text-color) !important;}.has-nv-text-dark-bg-background-color{background-color: var(--wp--preset--color--nv-text-dark-bg) !important;}.has-nv-c-1-background-color{background-color: var(--wp--preset--color--nv-c-1) !important;}.has-nv-c-2-background-color{background-color: var(--wp--preset--color--nv-c-2) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-neve-link-color-border-color{border-color: var(--wp--preset--color--neve-link-color) !important;}.has-neve-link-hover-color-border-color{border-color: var(--wp--preset--color--neve-link-hover-color) !important;}.has-nv-site-bg-border-color{border-color: var(--wp--preset--color--nv-site-bg) !important;}.has-nv-light-bg-border-color{border-color: var(--wp--preset--color--nv-light-bg) !important;}.has-nv-dark-bg-border-color{border-color: var(--wp--preset--color--nv-dark-bg) !important;}.has-neve-text-color-border-color{border-color: var(--wp--preset--color--neve-text-color) !important;}.has-nv-text-dark-bg-border-color{border-color: var(--wp--preset--color--nv-text-dark-bg) !important;}.has-nv-c-1-border-color{border-color: var(--wp--preset--color--nv-c-1) !important;}.has-nv-c-2-border-color{border-color: var(--wp--preset--color--nv-c-2) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:root :where(.wp-block-icon svg){width: 24px;}
+:where(.wp-block-gallery.is-layout-flex){gap: var( --wp--style--gallery-gap-default, var( --gallery-block--gutter-size, var( --wp--style--block-gap, 0.5em ) ) );}:where(.wp-block-gallery.is-layout-grid){gap: var( --wp--style--gallery-gap-default, var( --gallery-block--gutter-size, var( --wp--style--block-gap, 0.5em ) ) );}
+:where(.wp-block-latest-posts.is-layout-flex){gap: 1.25em;}:where(.wp-block-latest-posts.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-term-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-term-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+<link rel='stylesheet' id='google-language-translator-css' href='https://ristorantealforte.com/wp-content/plugins/google-language-translator/css/style.css?ver=6.0.20' media='' />
+<link rel='stylesheet' id='glt-toolbar-styles-css' href='https://ristorantealforte.com/wp-content/plugins/google-language-translator/css/toolbar.css?ver=6.0.20' media='' />
+<link rel='stylesheet' id='latepoint-main-front-css' href='https://ristorantealforte.com/wp-content/plugins/latepoint/public/stylesheets/front.css?ver=5.0.14' media='all' />
+<style id="latepoint-main-front-inline-css">
+:root {--latepoint-brand-primary:#cc7424;--latepoint-body-color:#1f222b;--latepoint-headings-color:#14161d;--latepoint-color-text-faded:desaturate(lighten(--latepoint-brand-primary, 15%), 70%);--latepoint-timeslot-selected-color:--latepoint-brand-primary;--latepoint-calendar-weekday-label-color:var(--latepoint-headings-color);--latepoint-calendar-weekday-label-bg:#fff;--latepoint-side-panel-bg:#fffbf3;--latepoint-summary-panel-bg:#fffbf3;}
+/*# sourceURL=latepoint-main-front-inline-css */
+</style>
+<link rel='stylesheet' id='latepoint-pro-features-front-css' href='https://ristorantealforte.com/wp-content/plugins/latepoint-pro-features/public/stylesheets/latepoint-pro-features-front.css?ver=1.0.13' media='all' />
+<link rel='stylesheet' id='min-and-max-quantity-for-woocommerce-css' href='https://ristorantealforte.com/wp-content/plugins/min-and-max-quantity-for-woocommerce/public/css/mmqw-for-woocommerce-public.css?ver=2.1.1' media='all' />
+<link rel='stylesheet' id='woocommerce-layout-css' href='https://ristorantealforte.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=10.6.2' media='all' />
+<style id="woocommerce-layout-inline-css">
+
+	.infinite-scroll .woocommerce-pagination {
+		display: none;
+	}
+/*# sourceURL=woocommerce-layout-inline-css */
+</style>
+<link rel='stylesheet' id='woocommerce-smallscreen-css' href='https://ristorantealforte.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=10.6.2' media='only screen and (max-width: 768px)' />
+<link rel='stylesheet' id='woocommerce-general-css' href='https://ristorantealforte.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=10.6.2' media='all' />
+<style id="woocommerce-inline-inline-css">
+.woocommerce form .form-row .required { visibility: visible; }
+/*# sourceURL=woocommerce-inline-inline-css */
+</style>
+<link rel='stylesheet' id='neve-woocommerce-css' href='https://ristorantealforte.com/wp-content/themes/neve/assets/css/woocommerce.min.css?ver=4.2.3' media='all' />
+<link rel='stylesheet' id='neve-style-css' href='https://ristorantealforte.com/wp-content/themes/neve/style-main-new.min.css?ver=4.2.3' media='all' />
+<style id="neve-style-inline-css">
+h1 {font-family: var(--h1fontfamily);}h2 {font-family: var(--h2fontfamily);}h3 {font-family: var(--h3fontfamily);}h4 {font-family: var(--h4fontfamily);}h5 {font-family: var(--h5fontfamily);}h6 {font-family: var(--h6fontfamily);}.is-menu-sidebar .header-menu-sidebar { visibility: visible; }.is-menu-sidebar.menu_sidebar_slide_left .header-menu-sidebar { transform: translate3d(0, 0, 0); left: 0; }.is-menu-sidebar.menu_sidebar_slide_right .header-menu-sidebar { transform: translate3d(0, 0, 0); right: 0; }.is-menu-sidebar.menu_sidebar_pull_right .header-menu-sidebar, .is-menu-sidebar.menu_sidebar_pull_left .header-menu-sidebar { transform: translateX(0); }.is-menu-sidebar.menu_sidebar_dropdown .header-menu-sidebar { height: auto; }.is-menu-sidebar.menu_sidebar_dropdown .header-menu-sidebar-inner { max-height: 400px; padding: 20px 0; }.is-menu-sidebar.menu_sidebar_full_canvas .header-menu-sidebar { opacity: 1; }.header-menu-sidebar .menu-item-nav-search:not(.floating) { pointer-events: none; }.header-menu-sidebar .menu-item-nav-search .is-menu-sidebar { pointer-events: unset; }
+.nv-meta-list li.meta:not(:last-child):after { content:"/" }.nv-meta-list .no-mobile{
+			display:none;
+		}.nv-meta-list li.last::after{
+			content: ""!important;
+		}@media (min-width: 769px) {
+			.nv-meta-list .no-mobile {
+				display: inline-block;
+			}
+			.nv-meta-list li.last:not(:last-child)::after {
+		 		content: "/" !important;
+			}
+		}
+.nav-ul li .caret svg, .nav-ul li .caret img{width:var(--smiconsize, 0.5em);height:var(--smiconsize, 0.5em);}.nav-ul .sub-menu li {border-style: var(--itembstyle);}
+ :root{ --container: 748px;--postwidth:100%; --primarybtnbg: #97774c; --primarybtnhoverbg: #97774c; --primarybtncolor: #fff; --secondarybtncolor: var(--nv-primary-accent); --primarybtnhovercolor: #fff; --secondarybtnhovercolor: var(--nv-primary-accent);--primarybtnborderradius:3px;--secondarybtnborderradius:3px;--secondarybtnborderwidth:3px;--btnpadding:13px 15px;--primarybtnpadding:13px 15px;--secondarybtnpadding:calc(13px - 3px) calc(15px - 3px); --bodyfontfamily: Forum; --bodyfontsize: 15px; --bodylineheight: 1.6em; --bodyletterspacing: 0px; --bodyfontweight: 400; --bodytexttransform: none; --headingsfontfamily: Forum; --h1fontfamily: Forum; --h1fontsize: 36px; --h1fontweight: 700; --h1lineheight: 1.2; --h1letterspacing: 0px; --h1texttransform: none; --h2fontfamily: Forum; --h2fontsize: 28px; --h2fontweight: 700; --h2lineheight: 1.3em; --h2letterspacing: 0px; --h2texttransform: none; --h3fontfamily: Forum; --h3fontsize: 24px; --h3fontweight: 700; --h3lineheight: 1.4em; --h3letterspacing: 0px; --h3texttransform: none; --h4fontfamily: Forum; --h4fontsize: 20px; --h4fontweight: 700; --h4lineheight: 1.6em; --h4letterspacing: 0px; --h4texttransform: none; --h5fontfamily: Forum; --h5fontsize: 16px; --h5fontweight: 700; --h5lineheight: 1.6em; --h5letterspacing: 0px; --h5texttransform: none; --h6fontfamily: Forum; --h6fontsize: 14px; --h6fontweight: 700; --h6lineheight: 1.6em; --h6letterspacing: 0px; --h6texttransform: none;--formfieldborderwidth:2px;--formfieldborderradius:3px; --formfieldbgcolor: var(--nv-site-bg); --formfieldbordercolor: #dddddd; --formfieldcolor: var(--nv-text-color);--formfieldpadding:10px 12px; } .nv-index-posts{ --borderradius:0px; } .single-post-container .alignfull > [class*="__inner-container"], .single-post-container .alignwide > [class*="__inner-container"]{ max-width:718px } .single-product .alignfull > [class*="__inner-container"], .single-product .alignwide > [class*="__inner-container"]{ max-width:718px } .nv-meta-list{ --avatarsize: 20px; } .single .nv-meta-list{ --avatarsize: 20px; } .nv-is-boxed.nv-comments-wrap{ --padding:20px; } .nv-is-boxed.comment-respond{ --padding:20px; } .single:not(.single-product), .page{ --c-vspace:0 0 0 0;; } .scroll-to-top{ --color: var(--nv-text-dark-bg);--padding:8px 10px; --borderradius: 1px; --bgcolor: var(--nv-primary-accent); --hovercolor: var(--nv-primary-accent); --hoverbgcolor: var(--nv-primary-accent);--size:16px; } .global-styled{ --bgcolor: var(--nv-site-bg); } .header-top{ --rowbcolor: #efe6db; --color: #97774c; --bgcolor: #efe6db; } .header-main{ --rowbcolor: #efe6db; --color: var(--nv-text-color); --bgcolor: #efe6db; } .header-bottom{ --rowbcolor: var(--nv-light-bg); --color: var(--nv-text-color); --bgcolor: var(--nv-site-bg); } .header-menu-sidebar-bg{ --justify: flex-start; --textalign: left;--flexg: 1;--wrapdropdownwidth: auto; --color: var(--nv-text-color); --bgcolor: var(--nv-site-bg); } .header-menu-sidebar{ width: 360px; } .builder-item--logo{ --maxwidth: 75px; --color: #97774c; --fs: 24px;--padding:10px 0;--margin:0; --textalign: left;--justify: flex-start; } .builder-item--nav-icon,.header-menu-sidebar .close-sidebar-panel .navbar-toggle{ --borderradius:0; } .builder-item--nav-icon{ --label-margin:0 5px 0 0;;--padding:10px 15px;--margin:0; } .builder-item--primary-menu{ --color: #97774c; --hovercolor: #b99d8a; --hovertextcolor: var(--nv-text-color); --activecolor: #97774c; --spacing: 20px; --height: 25px; --smiconsize: 7px;--padding:0;--margin:0; --fontfamily: Forum; --fontsize: 1em; --lineheight: 1.6em; --letterspacing: 0px; --fontweight: 400; --texttransform: none; --iconsize: 1em; } .builder-item--primary-menu .sub-menu{ --bstyle: none; --itembstyle: none; } .hfg-is-group.has-primary-menu .inherit-ff{ --inheritedff: Forum; --inheritedfw: 400; } .builder-item--secondary-menu{ --color: #97774c; --hovercolor: #b99d8a; --hovertextcolor: var(--nv-text-color); --activecolor: #97774c; --spacing: 20px; --height: 25px;--padding:0;--margin:0; --fontfamily: Forum; --fontsize: 1em; --lineheight: 1.6em; --letterspacing: 0px; --fontweight: 500; --texttransform: none; --iconsize: 1em; } .hfg-is-group.has-secondary-menu .inherit-ff{ --inheritedff: Forum; --inheritedfw: 500; } .builder-item--header_cart_icon{ --iconsize: 15px; --labelsize: 15px;--padding:0 10px;--margin:0; } .footer-top-inner .row{ grid-template-columns:1fr 1fr 1fr; --valign: flex-start; } .footer-top{ --rowbcolor: var(--nv-light-bg); --color: var(--nv-text-color); --bgcolor: var(--nv-site-bg); } .footer-main-inner .row{ grid-template-columns:1fr 1fr 1fr; --valign: flex-start; } .footer-main{ --rowbcolor: var(--nv-light-bg); --color: var(--nv-text-color); --bgcolor: var(--nv-site-bg); } .footer-bottom-inner .row{ grid-template-columns:1fr 1fr 1fr; --valign: flex-start; } .footer-bottom{ --rowbcolor: var(--nv-light-bg); --color: var(--nv-text-dark-bg); --bgcolor: var(--nv-dark-bg); } .page_header-top{ --rowbcolor: var(--nv-light-bg); --color: var(--nv-text-color); --bgcolor: var(--nv-site-bg); } .page_header-bottom{ --rowbcolor: var(--nv-light-bg); --color: var(--nv-text-color); --bgcolor: var(--nv-site-bg); } @media(min-width: 576px){ :root{ --container: 992px;--postwidth:50%;--btnpadding:13px 15px;--primarybtnpadding:13px 15px;--secondarybtnpadding:calc(13px - 3px) calc(15px - 3px); --bodyfontsize: 16px; --bodylineheight: 1.6em; --bodyletterspacing: 0px; --h1fontsize: 38px; --h1lineheight: 1.2; --h1letterspacing: 0px; --h2fontsize: 30px; --h2lineheight: 1.2em; --h2letterspacing: 0px; --h3fontsize: 26px; --h3lineheight: 1.4em; --h3letterspacing: 0px; --h4fontsize: 22px; --h4lineheight: 1.5em; --h4letterspacing: 0px; --h5fontsize: 18px; --h5lineheight: 1.6em; --h5letterspacing: 0px; --h6fontsize: 14px; --h6lineheight: 1.6em; --h6letterspacing: 0px; } .single-post-container .alignfull > [class*="__inner-container"], .single-post-container .alignwide > [class*="__inner-container"]{ max-width:962px } .single-product .alignfull > [class*="__inner-container"], .single-product .alignwide > [class*="__inner-container"]{ max-width:962px } .nv-meta-list{ --avatarsize: 20px; } .single .nv-meta-list{ --avatarsize: 20px; } .nv-is-boxed.nv-comments-wrap{ --padding:30px; } .nv-is-boxed.comment-respond{ --padding:30px; } .single:not(.single-product), .page{ --c-vspace:0 0 0 0;; } .scroll-to-top{ --padding:8px 10px;--size:16px; } .header-menu-sidebar-bg{ --justify: flex-start; --textalign: left;--flexg: 1;--wrapdropdownwidth: auto; } .header-menu-sidebar{ width: 360px; } .builder-item--logo{ --maxwidth: 120px; --fs: 24px;--padding:10px 0;--margin:0; --textalign: left;--justify: flex-start; } .builder-item--nav-icon{ --label-margin:0 5px 0 0;;--padding:10px 15px;--margin:0; } .builder-item--primary-menu{ --spacing: 20px; --height: 25px; --smiconsize: 7px;--padding:0;--margin:0; --fontsize: 1em; --lineheight: 1.6em; --letterspacing: 0px; --iconsize: 1em; } .builder-item--secondary-menu{ --spacing: 20px; --height: 25px;--padding:0;--margin:0; --fontsize: 1em; --lineheight: 1.6em; --letterspacing: 0px; --iconsize: 1em; } .builder-item--header_cart_icon{ --padding:0 10px;--margin:0; } }@media(min-width: 960px){ :root{ --container: 1170px;--postwidth:33.333333333333%;--btnpadding:13px 15px;--primarybtnpadding:13px 15px;--secondarybtnpadding:calc(13px - 3px) calc(15px - 3px); --bodyfontsize: 18px; --bodylineheight: 1.7em; --bodyletterspacing: 0px; --h1fontsize: 40px; --h1lineheight: 1.1; --h1letterspacing: 0px; --h2fontsize: 34px; --h2lineheight: 1.2em; --h2letterspacing: 0px; --h3fontsize: 34px; --h3lineheight: 1.4em; --h3letterspacing: 0px; --h4fontsize: 26px; --h4lineheight: 1.5em; --h4letterspacing: 0px; --h5fontsize: 26px; --h5lineheight: 1.6em; --h5letterspacing: 0px; --h6fontsize: 20px; --h6lineheight: 1.6em; --h6letterspacing: 0px; } body:not(.single):not(.archive):not(.blog):not(.search):not(.error404) .neve-main > .container .col, body.post-type-archive-course .neve-main > .container .col, body.post-type-archive-llms_membership .neve-main > .container .col{ max-width: 100%; } body:not(.single):not(.archive):not(.blog):not(.search):not(.error404) .nv-sidebar-wrap, body.post-type-archive-course .nv-sidebar-wrap, body.post-type-archive-llms_membership .nv-sidebar-wrap{ max-width: 0%; } .neve-main > .archive-container .nv-index-posts.col{ max-width: 100%; } .neve-main > .archive-container .nv-sidebar-wrap{ max-width: 0%; } .neve-main > .single-post-container .nv-single-post-wrap.col{ max-width: 70%; } .single-post-container .alignfull > [class*="__inner-container"], .single-post-container .alignwide > [class*="__inner-container"]{ max-width:789px } .container-fluid.single-post-container .alignfull > [class*="__inner-container"], .container-fluid.single-post-container .alignwide > [class*="__inner-container"]{ max-width:calc(70% + 15px) } .neve-main > .single-post-container .nv-sidebar-wrap{ max-width: 30%; } .archive.woocommerce .neve-main > .shop-container .nv-shop.col{ max-width: 70%; } .archive.woocommerce .neve-main > .shop-container .nv-sidebar-wrap{ max-width: 30%; } .single-product .neve-main > .shop-container .nv-shop.col{ max-width: 100%; } .single-product .alignfull > [class*="__inner-container"], .single-product .alignwide > [class*="__inner-container"]{ max-width:1140px } .single-product .container-fluid .alignfull > [class*="__inner-container"], .single-product .alignwide > [class*="__inner-container"]{ max-width:calc(100% + 15px) } .single-product .neve-main > .shop-container .nv-sidebar-wrap{ max-width: 0%; } .nv-meta-list{ --avatarsize: 20px; } .single .nv-meta-list{ --avatarsize: 20px; } .nv-is-boxed.nv-comments-wrap{ --padding:40px; } .nv-is-boxed.comment-respond{ --padding:40px; } .single:not(.single-product), .page{ --c-vspace:0 0 0 0;; } .scroll-to-top{ --padding:8px 10px;--size:14px; } .header-menu-sidebar-bg{ --justify: flex-start; --textalign: left;--flexg: 1;--wrapdropdownwidth: auto; } .header-menu-sidebar{ width: 360px; } .builder-item--logo{ --maxwidth: 104px; --fs: 24px;--padding:10px 0;--margin:0; --textalign: left;--justify: flex-start; } .builder-item--nav-icon{ --label-margin:0 5px 0 0;;--padding:10px 15px;--margin:0; } .builder-item--primary-menu{ --spacing: 20px; --height: 25px; --smiconsize: 7px;--padding:0;--margin:0; --fontsize: 1.2em; --lineheight: 1.6em; --letterspacing: 0px; --iconsize: 1.2em; } .builder-item--secondary-menu{ --spacing: 20px; --height: 25px;--padding:0;--margin:0; --fontsize: 1.2em; --lineheight: 1.6em; --letterspacing: 0px; --iconsize: 1.2em; } .builder-item--header_cart_icon{ --padding:0 10px;--margin:0; } }.nv-content-wrap .elementor a:not(.button):not(.wp-block-file__button){ text-decoration: none; }.scroll-to-top {right: 20px; border: none; position: fixed; bottom: 30px; display: none; opacity: 0; visibility: hidden; transition: opacity 0.3s ease-in-out, visibility 0.3s ease-in-out; align-items: center; justify-content: center; z-index: 999; } @supports (-webkit-overflow-scrolling: touch) { .scroll-to-top { bottom: 74px; } } .scroll-to-top.image { background-position: center; } .scroll-to-top .scroll-to-top-image { width: 100%; height: 100%; } .scroll-to-top .scroll-to-top-label { margin: 0; padding: 5px; } .scroll-to-top:hover { text-decoration: none; } .scroll-to-top.scroll-to-top-left {left: 20px; right: unset;} .scroll-to-top.scroll-show-mobile { display: flex; } @media (min-width: 960px) { .scroll-to-top { display: flex; } }.scroll-to-top { color: var(--color); padding: var(--padding); border-radius: var(--borderradius); background: var(--bgcolor); } .scroll-to-top:hover, .scroll-to-top:focus { color: var(--hovercolor); background: var(--hoverbgcolor); } .scroll-to-top-icon, .scroll-to-top.image .scroll-to-top-image { width: var(--size); height: var(--size); } .scroll-to-top-image { background-image: var(--bgimage); background-size: cover; }:root{--nv-primary-accent:#b99d8a;--nv-secondary-accent:#efe6db;--nv-site-bg:#ffffff;--nv-light-bg:#f4f5f7;--nv-dark-bg:#121212;--nv-text-color:#272626;--nv-text-dark-bg:#ffffff;--nv-c-1:#97774c;--nv-c-2:#97774c;--nv-fallback-ff:Arial, Helvetica, sans-serif;}
+:root{--e-global-color-nvprimaryaccent:#b99d8a;--e-global-color-nvsecondaryaccent:#efe6db;--e-global-color-nvsitebg:#ffffff;--e-global-color-nvlightbg:#f4f5f7;--e-global-color-nvdarkbg:#121212;--e-global-color-nvtextcolor:#272626;--e-global-color-nvtextdarkbg:#ffffff;--e-global-color-nvc1:#97774c;--e-global-color-nvc2:#97774c;}
+/*# sourceURL=neve-style-inline-css */
+</style>
+<link rel='stylesheet' id='neve-blog-pro-css' href='https://ristorantealforte.com/wp-content/plugins/neve-pro-addon/includes/modules/blog_pro/assets/style.min.css?ver=3.2.4' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css' href='https://ristorantealforte.com/wp-content/plugins/elementor/assets/css/frontend.css?ver=4.0.0' media='all' />
+<style id="elementor-frontend-inline-css">
+.elementor-lightbox{z-index:100000 !important;}
+/*# sourceURL=elementor-frontend-inline-css */
+</style>
+<link rel='stylesheet' id='widget-image-css' href='https://ristorantealforte.com/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=4.0.0' media='all' />
+<link rel='stylesheet' id='widget-heading-css' href='https://ristorantealforte.com/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=4.0.0' media='all' />
+<link rel='stylesheet' id='widget-social-icons-css' href='https://ristorantealforte.com/wp-content/plugins/elementor/assets/css/widget-social-icons.min.css?ver=4.0.0' media='all' />
+<link rel='stylesheet' id='e-apple-webkit-css' href='https://ristorantealforte.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=4.0.0' media='all' />
+<link rel='stylesheet' id='elementor-icons-css' href='https://ristorantealforte.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.css?ver=5.48.0' media='all' />
+<link rel='stylesheet' id='elementor-post-5-css' href='https://ristorantealforte.com/wp-content/uploads/elementor/css/post-5.css?ver=1793226698' media='all' />
+<link rel='stylesheet' id='neve-elementor-widgets-styles-css' href='https://ristorantealforte.com/wp-content/plugins/neve-pro-addon/includes/modules/elementor_booster/assets/css/style.min.css?ver=3.2.4' media='all' />
+<link rel='stylesheet' id='ppom-main-css' href='https://ristorantealforte.com/wp-content/plugins/woocommerce-product-addon/css/ppom-style.css?ver=33.0.18' media='all' />
+<link rel='stylesheet' id='elementor-post-36-css' href='https://ristorantealforte.com/wp-content/uploads/elementor/css/post-36.css?ver=1793226699' media='all' />
+<style id="elementor-pro-custom-fonts-inline-css">
+@font-face {
+	font-family: 'Forum';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('http://ristorantealforte.com/wp-content/uploads/2023/04/Forum-Regular.ttf') format('truetype');
+}
+
+/*# sourceURL=elementor-pro-custom-fonts-inline-css */
+</style>
+<link rel='stylesheet' id='neve-google-font-forum-css' href='//fonts.googleapis.com/css?family=Forum%3A400%2C500%2C700&#038;display=swap&#038;ver=4.2.3' media='all' />
+<link rel='stylesheet' id='elementor-gf-local-roboto-css' href='http://ristorantealforte.com/wp-content/uploads/elementor/google-fonts/css/roboto.css?ver=1756102479' media='all' />
+<link rel='stylesheet' id='elementor-gf-local-robotoslab-css' href='http://ristorantealforte.com/wp-content/uploads/elementor/google-fonts/css/robotoslab.css?ver=1756102482' media='all' />
+<link rel='stylesheet' id='elementor-icons-shared-0-css' href='https://ristorantealforte.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.css?ver=5.15.3' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-brands-css' href='https://ristorantealforte.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.css?ver=5.15.3' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-regular-css' href='https://ristorantealforte.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.css?ver=5.15.3' media='all' />
+<script id="cookie-law-info-js-extra">
+var _ckyConfig = {"_ipData":[],"_assetsURL":"https://ristorantealforte.com/wp-content/plugins/cookie-law-info/lite/frontend/images/","_publicURL":"https://ristorantealforte.com","_expiry":"365","_categories":[{"name":"Necessary","slug":"necessary","isNecessary":true,"ccpaDoNotSell":true,"cookies":[],"active":true,"defaultConsent":{"gdpr":true,"ccpa":true}},{"name":"Functional","slug":"functional","isNecessary":false,"ccpaDoNotSell":true,"cookies":[],"active":true,"defaultConsent":{"gdpr":false,"ccpa":false}},{"name":"Analytics","slug":"analytics","isNecessary":false,"ccpaDoNotSell":true,"cookies":[],"active":true,"defaultConsent":{"gdpr":false,"ccpa":false}},{"name":"Performance","slug":"performance","isNecessary":false,"ccpaDoNotSell":true,"cookies":[],"active":true,"defaultConsent":{"gdpr":false,"ccpa":false}},{"name":"Advertisement","slug":"advertisement","isNecessary":false,"ccpaDoNotSell":true,"cookies":[],"active":true,"defaultConsent":{"gdpr":false,"ccpa":false}}],"_activeLaw":"gdpr","_rootDomain":"","_block":"1","_showBanner":"1","_bannerConfig":{"settings":{"type":"classic","preferenceCenterType":"pushdown","position":"bottom","applicableLaw":"gdpr"},"behaviours":{"reloadBannerOnAccept":false,"loadAnalyticsByDefault":false,"animations":{"onLoad":"animate","onHide":"sticky"}},"config":{"revisitConsent":{"status":false,"tag":"revisit-consent","position":"bottom-left","meta":{"url":"#"},"styles":{"background-color":"#0056A7"},"elements":{"title":{"type":"text","tag":"revisit-consent-title","status":true,"styles":{"color":"#0056a7"}}}},"preferenceCenter":{"toggle":{"status":true,"tag":"detail-category-toggle","type":"toggle","states":{"active":{"styles":{"background-color":"#1863DC"}},"inactive":{"styles":{"background-color":"#D0D5D2"}}}}},"categoryPreview":{"status":false,"toggle":{"status":true,"tag":"detail-category-preview-toggle","type":"toggle","states":{"active":{"styles":{"background-color":"#1863DC"}},"inactive":{"styles":{"background-color":"#D0D5D2"}}}}},"videoPlaceholder":{"status":true,"styles":{"background-color":"#000000","border-color":"#000000","color":"#ffffff"}},"readMore":{"status":true,"tag":"readmore-button","type":"link","meta":{"noFollow":true,"newTab":true},"styles":{"color":"#B99D8A","background-color":"transparent","border-color":"transparent"}},"showMore":{"status":true,"tag":"show-desc-button","type":"button","styles":{"color":"#1863DC"}},"showLess":{"status":true,"tag":"hide-desc-button","type":"button","styles":{"color":"#1863DC"}},"alwaysActive":{"status":true,"tag":"always-active","styles":{"color":"#008000"}},"manualLinks":{"status":true,"tag":"manual-links","type":"link","styles":{"color":"#1863DC"}},"auditTable":{"status":false},"optOption":{"status":true,"toggle":{"status":true,"tag":"optout-option-toggle","type":"toggle","states":{"active":{"styles":{"background-color":"#1863dc"}},"inactive":{"styles":{"background-color":"#FFFFFF"}}}}}}},"_version":"3.4.0","_logConsent":"1","_tags":[{"tag":"accept-button","styles":{"color":"#FFFFFF","background-color":"#B99D8A","border-color":"#B99D8A"}},{"tag":"reject-button","styles":{"color":"#B99D8A","background-color":"transparent","border-color":"#B99D8A"}},{"tag":"settings-button","styles":{"color":"#B99D8A","background-color":"transparent","border-color":"#B99D8A"}},{"tag":"readmore-button","styles":{"color":"#B99D8A","background-color":"transparent","border-color":"transparent"}},{"tag":"donotsell-button","styles":{"color":"#1863DC","background-color":"transparent","border-color":"transparent"}},{"tag":"show-desc-button","styles":{"color":"#1863DC"}},{"tag":"hide-desc-button","styles":{"color":"#1863DC"}},{"tag":"cky-always-active","styles":[]},{"tag":"cky-link","styles":[]},{"tag":"accept-button","styles":{"color":"#FFFFFF","background-color":"#B99D8A","border-color":"#B99D8A"}},{"tag":"revisit-consent","styles":{"background-color":"#0056A7"}}],"_shortCodes":[{"key":"cky_readmore","content":"\u003Ca href=\"https://ristorantealforte.com/privacy-policy/\" class=\"cky-policy\" aria-label=\"Scopri di pi\u00f9\" target=\"_blank\" rel=\"noopener\" data-cky-tag=\"readmore-button\"\u003EScopri di pi\u00f9\u003C/a\u003E","tag":"readmore-button","status":true,"attributes":{"rel":"nofollow","target":"_blank"}},{"key":"cky_show_desc","content":"\u003Cbutton class=\"cky-show-desc-btn\" data-cky-tag=\"show-desc-button\" aria-label=\"Show more\"\u003EShow more\u003C/button\u003E","tag":"show-desc-button","status":true,"attributes":[]},{"key":"cky_hide_desc","content":"\u003Cbutton class=\"cky-show-desc-btn\" data-cky-tag=\"hide-desc-button\" aria-label=\"Show less\"\u003EShow less\u003C/button\u003E","tag":"hide-desc-button","status":true,"attributes":[]},{"key":"cky_optout_show_desc","content":"[cky_optout_show_desc]","tag":"optout-show-desc-button","status":true,"attributes":[]},{"key":"cky_optout_hide_desc","content":"[cky_optout_hide_desc]","tag":"optout-hide-desc-button","status":true,"attributes":[]},{"key":"cky_category_toggle_label","content":"[cky_{{status}}_category_label] [cky_preference_{{category_slug}}_title]","tag":"","status":true,"attributes":[]},{"key":"cky_enable_category_label","content":"Enable","tag":"","status":true,"attributes":[]},{"key":"cky_disable_category_label","content":"Disable","tag":"","status":true,"attributes":[]},{"key":"cky_video_placeholder","content":"\u003Cdiv class=\"video-placeholder-normal\" data-cky-tag=\"video-placeholder\" id=\"[UNIQUEID]\"\u003E\u003Cp class=\"video-placeholder-text-normal\" data-cky-tag=\"placeholder-title\"\u003EPlease accept cookies to access this content\u003C/p\u003E\u003C/div\u003E","tag":"","status":true,"attributes":[]},{"key":"cky_enable_optout_label","content":"Enable","tag":"","status":true,"attributes":[]},{"key":"cky_disable_optout_label","content":"Disable","tag":"","status":true,"attributes":[]},{"key":"cky_optout_toggle_label","content":"[cky_{{status}}_optout_label] [cky_optout_option_title]","tag":"","status":true,"attributes":[]},{"key":"cky_optout_option_title","content":"Do Not Sell or Share My Personal Information","tag":"","status":true,"attributes":[]},{"key":"cky_optout_close_label","content":"Close","tag":"","status":true,"attributes":[]},{"key":"cky_preference_close_label","content":"Close","tag":"","status":true,"attributes":[]}],"_rtl":"","_language":"en","_providersToBlock":[]};
+var _ckyStyles = {"css":".cky-hide{display: none;}.cky-btn-revisit-wrapper{display: flex; align-items: center; justify-content: center; background: #0056a7; width: 45px; height: 45px; border-radius: 50%; position: fixed; z-index: 999999; cursor: pointer;}.cky-revisit-bottom-left{bottom: 15px; left: 15px;}.cky-revisit-bottom-right{bottom: 15px; right: 15px;}.cky-btn-revisit-wrapper .cky-btn-revisit{display: flex; align-items: center; justify-content: center; background: none; border: none; cursor: pointer; position: relative; margin: 0; padding: 0;}.cky-btn-revisit-wrapper .cky-btn-revisit img{max-width: fit-content; margin: 0; height: 30px; width: 30px;}.cky-revisit-bottom-left:hover::before{content: attr(data-tooltip); position: absolute; background: #4E4B66; color: #ffffff; left: calc(100% + 7px); font-size: 12px; line-height: 16px; width: max-content; padding: 4px 8px; border-radius: 4px;}.cky-revisit-bottom-left:hover::after{position: absolute; content: \"\"; border: 5px solid transparent; left: calc(100% + 2px); border-left-width: 0; border-right-color: #4E4B66;}.cky-revisit-bottom-right:hover::before{content: attr(data-tooltip); position: absolute; background: #4E4B66; color: #ffffff; right: calc(100% + 7px); font-size: 12px; line-height: 16px; width: max-content; padding: 4px 8px; border-radius: 4px;}.cky-revisit-bottom-right:hover::after{position: absolute; content: \"\"; border: 5px solid transparent; right: calc(100% + 2px); border-right-width: 0; border-left-color: #4E4B66;}.cky-revisit-hide{display: none;}.cky-consent-container{position: fixed; width: 100%; box-sizing: border-box; z-index: 9999999;}.cky-classic-bottom{bottom: 0; left: 0;}.cky-classic-top{top: 0; left: 0;}.cky-consent-container .cky-consent-bar{background: #ffffff; border: 1px solid; padding: 16.5px 24px; box-shadow: 0 -1px 10px 0 #acabab4d;}.cky-consent-bar .cky-banner-btn-close{position: absolute; right: 9px; top: 5px; background: none; border: none; cursor: pointer; padding: 0; margin: 0; height: auto; width: auto; min-height: 0; line-height: 0; text-shadow: none; box-shadow: none;}.cky-consent-bar .cky-banner-btn-close img{width: 9px; height: 9px; margin: 0;}.cky-custom-brand-logo-wrapper .cky-custom-brand-logo{width: 100px; height: auto; margin: 0 0 10px 0;}.cky-notice .cky-title{color: #212121; font-weight: 700; font-size: 18px; line-height: 24px; margin: 0 0 10px 0;}.cky-notice-group{display: flex; justify-content: space-between; align-items: center;}.cky-notice-des *{font-size: 14px;}.cky-notice-des{color: #212121; font-size: 14px; line-height: 24px; font-weight: 400;}.cky-notice-des img{height: 25px; width: 25px;}.cky-consent-bar .cky-notice-des p{color: inherit; margin-top: 0; overflow-wrap: break-word;}.cky-notice-des p:last-child{margin-bottom: 0;}.cky-notice-des a.cky-policy,.cky-notice-des button.cky-policy{font-size: 14px; color: #1863dc; white-space: nowrap; cursor: pointer; background: transparent; border: 1px solid; text-decoration: underline;}.cky-notice-des button.cky-policy{padding: 0;}.cky-notice-des a.cky-policy:focus-visible,.cky-consent-bar .cky-banner-btn-close:focus-visible,.cky-notice-des button.cky-policy:focus-visible,.cky-category-direct-switch input[type=\"checkbox\"]:focus-visible,.cky-preference-content-wrapper .cky-show-desc-btn:focus-visible,.cky-accordion-header .cky-accordion-btn:focus-visible,.cky-switch input[type=\"checkbox\"]:focus-visible,.cky-footer-wrapper a:focus-visible,.cky-btn:focus-visible{outline: 2px solid #1863dc; outline-offset: 2px;}.cky-btn:focus:not(:focus-visible),.cky-accordion-header .cky-accordion-btn:focus:not(:focus-visible),.cky-preference-content-wrapper .cky-show-desc-btn:focus:not(:focus-visible),.cky-btn-revisit-wrapper .cky-btn-revisit:focus:not(:focus-visible),.cky-preference-header .cky-btn-close:focus:not(:focus-visible),.cky-banner-btn-close:focus:not(:focus-visible){outline: 0;}button.cky-show-desc-btn:not(:hover):not(:active){color: #1863dc; background: transparent;}button.cky-accordion-btn:not(:hover):not(:active),button.cky-banner-btn-close:not(:hover):not(:active),button.cky-btn-close:not(:hover):not(:active),button.cky-btn-revisit:not(:hover):not(:active){background: transparent;}.cky-consent-bar button:hover,.cky-modal.cky-modal-open button:hover,.cky-consent-bar button:focus,.cky-modal.cky-modal-open button:focus{text-decoration: none;}.cky-notice-btn-wrapper{display: flex; justify-content: center; align-items: center; margin-left: 15px;}.cky-notice-btn-wrapper .cky-btn{text-shadow: none; box-shadow: none;}.cky-btn{font-size: 14px; font-family: inherit; line-height: 24px; padding: 8px 27px; font-weight: 500; margin: 0 8px 0 0; border-radius: 2px; white-space: nowrap; cursor: pointer; text-align: center; text-transform: none; min-height: 0;}.cky-btn:hover{opacity: 0.8;}.cky-btn-customize{color: #1863dc; background: transparent; border: 2px solid; border-color: #1863dc; padding: 8px 28px 8px 14px; position: relative;}.cky-btn-reject{color: #1863dc; background: transparent; border: 2px solid #1863dc;}.cky-btn-accept{background: #1863dc; color: #ffffff; border: 2px solid #1863dc;}.cky-consent-bar .cky-btn-customize::after{position: absolute; content: \"\"; display: inline-block; top: 18px; right: 12px; border-left: 5px solid transparent; border-right: 5px solid transparent; border-top: 6px solid; border-top-color: inherit;}.cky-consent-container.cky-consent-bar-expand .cky-btn-customize::after{transform: rotate(-180deg);}.cky-btn:last-child{margin-right: 0;}@media (max-width: 768px){.cky-notice-group{display: block;}.cky-notice-btn-wrapper{margin: 0;}.cky-notice-btn-wrapper{flex-wrap: wrap;}.cky-notice-btn-wrapper .cky-btn{flex: auto; max-width: 100%; margin-top: 10px; white-space: unset;}}@media (max-width: 576px){.cky-btn-accept{order: 1; width: 100%;}.cky-btn-customize{order: 2;}.cky-btn-reject{order: 3; margin-right: 0;}.cky-consent-container.cky-consent-bar-expand .cky-consent-bar{display: none;}.cky-consent-container .cky-consent-bar{padding: 16.5px 0;}.cky-custom-brand-logo-wrapper .cky-custom-brand-logo, .cky-notice .cky-title, .cky-notice-des, .cky-notice-btn-wrapper, .cky-category-direct-preview-wrapper{padding: 0 24px;}.cky-notice-des{max-height: 40vh; overflow-y: scroll;}}@media (max-width: 352px){.cky-notice .cky-title{font-size: 16px;}.cky-notice-des *{font-size: 12px;}.cky-notice-des, .cky-btn, .cky-notice-des a.cky-policy{font-size: 12px;}}.cky-preference-wrapper{display: none;}.cky-consent-container.cky-classic-bottom.cky-consent-bar-expand{animation: cky-classic-expand 1s;}.cky-consent-container.cky-classic-bottom.cky-consent-bar-expand .cky-preference-wrapper{display: block;}@keyframes cky-classic-expand{0%{transform: translateY(50%);}100%{transform: translateY(0%);}}.cky-consent-container.cky-classic-top .cky-preference-wrapper{animation: cky-classic-top-expand 1s;}.cky-consent-container.cky-classic-top.cky-consent-bar-expand .cky-preference-wrapper{display: block;}@keyframes cky-classic-top-expand{0%{opacity: 0; transform: translateY(-50%);}50%{opacity: 0;}100%{opacity: 1; transform: translateY(0%);}}.cky-preference{padding: 0 24px; color: #212121; overflow-y: scroll; max-height: 48vh;}.cky-preference-center,.cky-preference,.cky-preference-header,.cky-footer-wrapper{background-color: inherit;}.cky-preference-center,.cky-preference,.cky-preference-body-wrapper,.cky-accordion-wrapper{color: inherit;}.cky-preference-header .cky-btn-close{cursor: pointer; vertical-align: middle; padding: 0; margin: 0; display: none; background: none; border: none; height: auto; width: auto; min-height: 0; line-height: 0; box-shadow: none; text-shadow: none;}.cky-preference-header .cky-btn-close img{margin: 0; height: 10px; width: 10px;}.cky-preference-header{margin: 16px 0 0 0; display: flex; align-items: center; justify-content: space-between;}.cky-preference-header .cky-preference-title{font-size: 18px; font-weight: 700; line-height: 24px;}.cky-preference-content-wrapper *{font-size: 14px;}.cky-preference-content-wrapper{font-size: 14px; line-height: 24px; font-weight: 400; padding: 12px 0; border-bottom: 1px solid;}.cky-preference-content-wrapper img{height: 25px; width: 25px;}.cky-preference-content-wrapper .cky-show-desc-btn{font-size: 14px; font-family: inherit; color: #1863dc; text-decoration: none; line-height: 24px; padding: 0; margin: 0; white-space: nowrap; cursor: pointer; background: transparent; border-color: transparent; text-transform: none; min-height: 0; text-shadow: none; box-shadow: none;}.cky-preference-body-wrapper .cky-preference-content-wrapper p{color: inherit; margin-top: 0;}.cky-accordion-wrapper{margin-bottom: 10px;}.cky-accordion{border-bottom: 1px solid;}.cky-accordion:last-child{border-bottom: none;}.cky-accordion .cky-accordion-item{display: flex; margin-top: 10px;}.cky-accordion .cky-accordion-body{display: none;}.cky-accordion.cky-accordion-active .cky-accordion-body{display: block; padding: 0 22px; margin-bottom: 16px;}.cky-accordion-header-wrapper{cursor: pointer; width: 100%;}.cky-accordion-item .cky-accordion-header{display: flex; justify-content: space-between; align-items: center;}.cky-accordion-header .cky-accordion-btn{font-size: 16px; font-family: inherit; color: #212121; line-height: 24px; background: none; border: none; font-weight: 700; padding: 0; margin: 0; cursor: pointer; text-transform: none; min-height: 0; text-shadow: none; box-shadow: none;}.cky-accordion-header .cky-always-active{color: #008000; font-weight: 600; line-height: 24px; font-size: 14px;}.cky-accordion-header-des *{font-size: 14px;}.cky-accordion-header-des{color: #212121; font-size: 14px; line-height: 24px; margin: 10px 0 16px 0;}.cky-accordion-header-wrapper .cky-accordion-header-des p{color: inherit; margin-top: 0;}.cky-accordion-chevron{margin-right: 22px; position: relative; cursor: pointer;}.cky-accordion-chevron-hide{display: none;}.cky-accordion .cky-accordion-chevron i::before{content: \"\"; position: absolute; border-right: 1.4px solid; border-bottom: 1.4px solid; border-color: inherit; height: 6px; width: 6px; -webkit-transform: rotate(-45deg); -moz-transform: rotate(-45deg); -ms-transform: rotate(-45deg); -o-transform: rotate(-45deg); transform: rotate(-45deg); transition: all 0.2s ease-in-out; top: 8px;}.cky-accordion.cky-accordion-active .cky-accordion-chevron i::before{-webkit-transform: rotate(45deg); -moz-transform: rotate(45deg); -ms-transform: rotate(45deg); -o-transform: rotate(45deg); transform: rotate(45deg);}.cky-audit-table{background: #f4f4f4; border-radius: 6px;}.cky-audit-table .cky-empty-cookies-text{color: inherit; font-size: 12px; line-height: 24px; margin: 0; padding: 10px;}.cky-audit-table .cky-cookie-des-table{font-size: 12px; line-height: 24px; font-weight: normal; padding: 15px 10px; border-bottom: 1px solid; border-bottom-color: inherit; margin: 0;}.cky-audit-table .cky-cookie-des-table:last-child{border-bottom: none;}.cky-audit-table .cky-cookie-des-table li{list-style-type: none; display: flex; padding: 3px 0;}.cky-audit-table .cky-cookie-des-table li:first-child{padding-top: 0;}.cky-cookie-des-table li div:first-child{width: 100px; font-weight: 600; word-break: break-word; word-wrap: break-word;}.cky-cookie-des-table li div:last-child{flex: 1; word-break: break-word; word-wrap: break-word; margin-left: 8px;}.cky-cookie-des-table li div:last-child p{color: inherit; margin-top: 0;}.cky-cookie-des-table li div:last-child p:last-child{margin-bottom: 0;}.cky-prefrence-btn-wrapper{display: flex; align-items: center; justify-content: flex-end; padding: 18px 24px; border-top: 1px solid;}.cky-prefrence-btn-wrapper .cky-btn{text-shadow: none; box-shadow: none;}.cky-category-direct-preview-btn-wrapper .cky-btn-preferences{text-shadow: none; box-shadow: none;}.cky-prefrence-btn-wrapper .cky-btn-accept,.cky-prefrence-btn-wrapper .cky-btn-reject{display: none;}.cky-btn-preferences{color: #1863dc; background: transparent; border: 2px solid #1863dc;}.cky-footer-wrapper{position: relative;}.cky-footer-shadow{display: block; width: 100%; height: 40px; background: linear-gradient(180deg, rgba(255, 255, 255, 0) 0%, #ffffff 100%); position: absolute; bottom: 100%;}.cky-preference-center,.cky-preference,.cky-preference-body-wrapper,.cky-preference-content-wrapper,.cky-accordion-wrapper,.cky-accordion,.cky-footer-wrapper,.cky-prefrence-btn-wrapper{border-color: inherit;}@media (max-width: 768px){.cky-preference{max-height: 35vh;}}@media (max-width: 576px){.cky-consent-bar-hide{display: none;}.cky-preference{max-height: 100vh; padding: 0;}.cky-preference-body-wrapper{padding: 60px 24px 200px;}.cky-preference-body-wrapper-reject-hide{padding: 60px 24px 165px;}.cky-preference-header{position: fixed; width: 100%; box-sizing: border-box; z-index: 999999999; margin: 0; padding: 16px 24px; border-bottom: 1px solid #f4f4f4;}.cky-preference-header .cky-btn-close{display: block;}.cky-prefrence-btn-wrapper{display: block;}.cky-accordion.cky-accordion-active .cky-accordion-body{padding-right: 0;}.cky-prefrence-btn-wrapper .cky-btn{width: 100%; margin-top: 10px; margin-right: 0;}.cky-prefrence-btn-wrapper .cky-btn:first-child{margin-top: 0;}.cky-accordion:last-child{padding-bottom: 20px;}.cky-prefrence-btn-wrapper .cky-btn-accept, .cky-prefrence-btn-wrapper .cky-btn-reject{display: block;}.cky-footer-wrapper{position: fixed; bottom: 0; width: 100%;}}@media (max-width: 425px){.cky-accordion-chevron{margin-right: 15px;}.cky-accordion.cky-accordion-active .cky-accordion-body{padding: 0 15px;}}@media (max-width: 352px){.cky-preference-header .cky-preference-title{font-size: 16px;}.cky-preference-content-wrapper *, .cky-accordion-header-des *{font-size: 12px;}.cky-accordion-header-des, .cky-preference-content-wrapper, .cky-preference-content-wrapper .cky-show-desc-btn{font-size: 12px;}.cky-accordion-header .cky-accordion-btn{font-size: 14px;}}.cky-category-direct-preview-wrapper{display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; margin-top: 16px;}.cky-category-direct-preview{display: flex; flex-wrap: wrap; align-items: center; font-size: 14px; font-weight: 600; line-height: 24px; color: #212121;}.cky-category-direct-preview-section{width: 100%; display: flex; justify-content: space-between; flex-wrap: wrap;}.cky-category-direct-item{display: flex; margin: 0 30px 10px 0; cursor: pointer;}.cky-category-direct-item label{font-size: 14px; font-weight: 600; margin-right: 10px; cursor: pointer; word-break: break-word;}.cky-category-direct-switch input[type=\"checkbox\"]{display: inline-block; position: relative; width: 33px; height: 18px; margin: 0; background: #d0d5d2; -webkit-appearance: none; border-radius: 50px; border: none; cursor: pointer; vertical-align: middle; outline: 0; top: 0;}.cky-category-direct-switch input[type=\"checkbox\"]:checked{background: #1863dc;}.cky-category-direct-switch input[type=\"checkbox\"]:before{position: absolute; content: \"\"; height: 15px; width: 15px; left: 2px; bottom: 2px; margin: 0; border-radius: 50%; background-color: white; -webkit-transition: 0.4s; transition: 0.4s;}.cky-category-direct-switch input[type=\"checkbox\"]:checked:before{-webkit-transform: translateX(14px); -ms-transform: translateX(14px); transform: translateX(14px);}.cky-category-direct-switch input[type=\"checkbox\"]:after{display: none;}.cky-category-direct-switch .cky-category-direct-switch-enabled:checked{background: #818181;}@media (max-width: 576px){.cky-category-direct-preview-wrapper{display: block;}.cky-category-direct-item{justify-content: space-between; width: 45%; margin: 0 0 10px 0;}.cky-category-direct-preview-btn-wrapper .cky-btn-preferences{width: 100%;}}@media (max-width: 352px){.cky-category-direct-preview{font-size: 12px;}}.cky-switch{display: flex;}.cky-switch input[type=\"checkbox\"]{position: relative; width: 44px; height: 24px; margin: 0; background: #d0d5d2; -webkit-appearance: none; border-radius: 50px; cursor: pointer; outline: 0; border: none; top: 0;}.cky-switch input[type=\"checkbox\"]:checked{background: #3a76d8;}.cky-switch input[type=\"checkbox\"]:before{position: absolute; content: \"\"; height: 20px; width: 20px; left: 2px; bottom: 2px; border-radius: 50%; background-color: white; -webkit-transition: 0.4s; transition: 0.4s; margin: 0;}.cky-switch input[type=\"checkbox\"]:after{display: none;}.cky-switch input[type=\"checkbox\"]:checked:before{-webkit-transform: translateX(20px); -ms-transform: translateX(20px); transform: translateX(20px);}@media (max-width: 425px){.cky-switch input[type=\"checkbox\"]{width: 38px; height: 21px;}.cky-switch input[type=\"checkbox\"]:before{height: 17px; width: 17px;}.cky-switch input[type=\"checkbox\"]:checked:before{-webkit-transform: translateX(17px); -ms-transform: translateX(17px); transform: translateX(17px);}}.video-placeholder-youtube{background-size: 100% 100%; background-position: center; background-repeat: no-repeat; background-color: #b2b0b059; position: relative; display: flex; align-items: center; justify-content: center; max-width: 100%;}.video-placeholder-text-youtube{text-align: center; align-items: center; padding: 10px 16px; background-color: #000000cc; color: #ffffff; border: 1px solid; border-radius: 2px; cursor: pointer;}.video-placeholder-normal{background-image: url(\"/wp-content/plugins/cookie-law-info/lite/frontend/images/placeholder.svg\"); background-size: 80px; background-position: center; background-repeat: no-repeat; background-color: #b2b0b059; position: relative; display: flex; align-items: flex-end; justify-content: center; max-width: 100%;}.video-placeholder-text-normal{align-items: center; padding: 10px 16px; text-align: center; border: 1px solid; border-radius: 2px; cursor: pointer;}.cky-rtl{direction: rtl; text-align: right;}.cky-rtl .cky-banner-btn-close{left: 9px; right: auto;}.cky-rtl .cky-notice-btn-wrapper .cky-btn:last-child{margin-right: 8px;}.cky-rtl .cky-notice-btn-wrapper{margin-left: 0; margin-right: 15px;}.cky-rtl .cky-prefrence-btn-wrapper .cky-btn{margin-right: 8px;}.cky-rtl .cky-prefrence-btn-wrapper .cky-btn:first-child{margin-right: 0;}.cky-rtl .cky-accordion .cky-accordion-chevron i::before{border: none; border-left: 1.4px solid; border-top: 1.4px solid; left: 12px;}.cky-rtl .cky-accordion.cky-accordion-active .cky-accordion-chevron i::before{-webkit-transform: rotate(-135deg); -moz-transform: rotate(-135deg); -ms-transform: rotate(-135deg); -o-transform: rotate(-135deg); transform: rotate(-135deg);}.cky-rtl .cky-category-direct-preview-btn-wrapper{margin-right: 15px; margin-left: 0;}.cky-rtl .cky-category-direct-item label{margin-right: 0; margin-left: 10px;}.cky-rtl .cky-category-direct-preview-section .cky-category-direct-item:first-child{margin: 0 0 10px 0;}@media (max-width: 992px){.cky-rtl .cky-category-direct-preview-btn-wrapper{margin-right: 0;}}@media (max-width: 768px){.cky-rtl .cky-notice-btn-wrapper{margin-right: 0;}.cky-rtl .cky-notice-btn-wrapper .cky-btn:first-child{margin-right: 0;}}@media (max-width: 576px){.cky-rtl .cky-prefrence-btn-wrapper .cky-btn{margin-right: 0;}.cky-rtl .cky-notice-btn-wrapper .cky-btn{margin-right: 0;}.cky-rtl .cky-notice-btn-wrapper .cky-btn:last-child{margin-right: 0;}.cky-rtl .cky-notice-btn-wrapper .cky-btn-reject{margin-right: 8px;}.cky-rtl .cky-accordion.cky-accordion-active .cky-accordion-body{padding: 0 22px 0 0;}}@media (max-width: 425px){.cky-rtl .cky-accordion.cky-accordion-active .cky-accordion-body{padding: 0 15px 0 0;}}"};
+//# sourceURL=cookie-law-info-js-extra
+</script>
+<script id="cookie-law-info-js" src="https://ristorantealforte.com/wp-content/plugins/cookie-law-info/lite/frontend/js/script.js?ver=3.4.0"></script>
+<script id="jquery-core-js" src="https://ristorantealforte.com/wp-includes/js/jquery/jquery.js?ver=3.7.1"></script>
+<script id="jquery-migrate-js" src="https://ristorantealforte.com/wp-includes/js/jquery/jquery-migrate.js?ver=3.4.1"></script>
+<script id="latepoint-pro-features-front-js" src="https://ristorantealforte.com/wp-content/plugins/latepoint-pro-features/public/javascripts/latepoint-pro-features-front.js?ver=1.0.13"></script>
+<script id="latepoint-vendor-front-js" src="https://ristorantealforte.com/wp-content/plugins/latepoint/public/javascripts/vendor-front.js?ver=5.0.14"></script>
+<script id="wp-hooks-js" src="https://ristorantealforte.com/wp-includes/js/dist/hooks.js?ver=f0f188028580e8dc1255"></script>
+<script id="wp-i18n-js" src="https://ristorantealforte.com/wp-includes/js/dist/i18n.js?ver=1dfe7db3940c23ea9216"></script>
+<script id="wp-i18n-js-after">
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+//# sourceURL=wp-i18n-js-after
+</script>
+<script id="latepoint-main-front-js-extra">
+var latepoint_helper = {"route_action":"latepoint_route_call","response_status":{"success":"success","error":"error"},"ajaxurl":"https://ristorantealforte.com/wp-admin/admin-ajax.php","time_pick_style":"timebox","string_today":"Oggi","reload_booking_form_summary_route":"steps__reload_booking_form_summary_panel","time_system":"24","msg_not_available":"Non Disponibile","booking_button_route":"steps__start","remove_cart_item_route":"carts__remove_item_from_cart","show_booking_end_time":"no","customer_dashboard_url":"https://ristorantealforte.com/customer-dashboard","demo_mode":"","cancel_booking_prompt":"Sei sicuro di voler cancellare questo appuntamento?","single_space_message":"Spazio Disponibile","many_spaces_message":"Spazi Disponibili","body_font_family":"\"latepoint\", -apple-system, system-ui, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif ","headings_font_family":"\"latepoint\", -apple-system, system-ui, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif ","currency_symbol_before":"\u20ac","currency_symbol_after":"","thousand_separator":",","decimal_separator":".","number_of_decimals":"2","included_phone_countries":"[]","default_phone_country":"it","is_timezone_selected":"","start_from_order_intent_route":"steps__start_from_order_intent","start_from_order_intent_key":"","social_login_google_client_id":"","social_login_google_route":"auth__login_customer_using_google_token","is_enabled_show_dial_code_with_flag":"1","mask_phone_number_fields":"","msg_validation_presence":"non pu\u00f2 essere vuoto","msg_validation_presence_checkbox":"deve essere controllato","msg_validation_invalid":"non \u00e8 valido","msg_minutes_suffix":" minutes","is_stripe_connect_enabled":"","check_order_intent_bookable_route":"steps__check_order_intent_bookable","payment_environment":"live","style_border_radius":"rounded","datepicker_timeslot_selected_label":"Selezionato","stripe_connect_route_create_payment_intent":"stripe_connect__create_payment_intent","google_places_country_restriction":"","custom_fields_remove_file_prompt":"Are you sure you want to remove this file?","custom_fields_remove_required_file_prompt":"This file is required and can not be removed, but you can replace it with a different file. Do you want to replace it?"};
+//# sourceURL=latepoint-main-front-js-extra
+</script>
+<script id="latepoint-main-front-js" src="https://ristorantealforte.com/wp-content/plugins/latepoint/public/javascripts/front.js?ver=5.0.14"></script>
+<script id="min-and-max-quantity-for-woocommerce-js-extra">
+var mmqw_plugin_vars = {"one_quantity":"Quantity: ","change_qty_html":"1"};
+//# sourceURL=min-and-max-quantity-for-woocommerce-js-extra
+</script>
+<script id="min-and-max-quantity-for-woocommerce-js" src="https://ristorantealforte.com/wp-content/plugins/min-and-max-quantity-for-woocommerce/public/js/mmqw-for-woocommerce-public.js?ver=2.1.1"></script>
+<script data-wp-strategy="defer" defer id="wc-jquery-blockui-js" src="https://ristorantealforte.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.js?ver=2.7.0-wc.10.6.2"></script>
+<script id="wc-add-to-cart-js-extra">
+var wc_add_to_cart_params = {"ajax_url":"/wp-admin/admin-ajax.php","wc_ajax_url":"/?wc-ajax=%%endpoint%%","i18n_view_cart":"Visualizza carrello","cart_url":"https://ristorantealforte.com/pagamento/","is_cart":"","cart_redirect_after_add":"no"};
+//# sourceURL=wc-add-to-cart-js-extra
+</script>
+<script data-wp-strategy="defer" defer id="wc-add-to-cart-js" src="https://ristorantealforte.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.js?ver=10.6.2"></script>
+<script data-wp-strategy="defer" defer id="wc-js-cookie-js" src="https://ristorantealforte.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.js?ver=2.1.4-wc.10.6.2"></script>
+<script id="woocommerce-js-extra">
+var woocommerce_params = {"ajax_url":"/wp-admin/admin-ajax.php","wc_ajax_url":"/?wc-ajax=%%endpoint%%","i18n_password_show":"Mostra password","i18n_password_hide":"Nascondi password"};
+//# sourceURL=woocommerce-js-extra
+</script>
+<script data-wp-strategy="defer" defer id="woocommerce-js" src="https://ristorantealforte.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.js?ver=10.6.2"></script>
+<link rel="https://api.w.org/" href="https://ristorantealforte.com/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://ristorantealforte.com/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 7.1.4" />
+<meta name="generator" content="WooCommerce 10.6.2" />
+<style id="cky-style-inline">[data-cky-tag]{visibility:hidden;}</style><style>p.hello{font-size:12px;color:darkgray;}#google_language_translator,#flags{text-align:left;}#google_language_translator{clear:both;}#flags{width:165px;}#flags a{display:inline-block;margin-right:2px;}#google_language_translator a{display:none!important;}div.skiptranslate.goog-te-gadget{display:inline!important;}.goog-te-gadget{color:transparent!important;}.goog-te-gadget{font-size:0px!important;}.goog-branding{display:none;}.goog-tooltip{display: none!important;}.goog-tooltip:hover{display: none!important;}.goog-text-highlight{background-color:transparent!important;border:none!important;box-shadow:none!important;}#google_language_translator select.goog-te-combo{color:#32373c;}div.skiptranslate{display:none!important;}body{top:0px!important;}#goog-gt-{display:none!important;}font font{background-color:transparent!important;box-shadow:none!important;position:initial!important;}#glt-translate-trigger{left:20px;right:auto;}#glt-translate-trigger > span{color:#ffffff;}#glt-translate-trigger{background:#b99d8a;}.goog-te-gadget .goog-te-combo{width:100%;}</style><link rel="apple-touch-icon" sizes="180x180" href="/wp-content/uploads/fbrfg/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/wp-content/uploads/fbrfg/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/wp-content/uploads/fbrfg/favicon-16x16.png">
+<link rel="manifest" href="/wp-content/uploads/fbrfg/site.webmanifest">
+<link rel="mask-icon" href="/wp-content/uploads/fbrfg/safari-pinned-tab.svg" color="#5bbad5">
+<link rel="shortcut icon" href="/wp-content/uploads/fbrfg/favicon.ico">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="msapplication-config" content="/wp-content/uploads/fbrfg/browserconfig.xml">
+<meta name="theme-color" content="#ffffff"><!-- Analytics by WP Statistics - https://wp-statistics.com -->
+	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	<meta name="generator" content="Elementor 4.0.0; features: additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-swap">
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-16978617240"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-16978617240');
+</script>
+			<script  type="text/javascript">
+				!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+					n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+					n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+					t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+					document,'script','https://connect.facebook.net/en_US/fbevents.js');
+			</script>
+			<!-- WooCommerce Facebook Integration Begin -->
+			<script  type="text/javascript">
+
+				fbq('init', '1126906027473811', {}, {
+    "agent": "woocommerce_0-10.6.2-3.6.2"
+});
+
+				document.addEventListener( 'DOMContentLoaded', function() {
+					// Insert placeholder for events injected when a product is added to the cart through AJAX.
+					document.body.insertAdjacentHTML( 'beforeend', '<div class=\"wc-facebook-pixel-event-placeholder\"></div>' );
+				}, false );
+
+			</script>
+			<!-- WooCommerce Facebook Integration End -->
+						<style>
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload),
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload) * {
+					background-image: none !important;
+				}
+				@media screen and (max-height: 1024px) {
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+				@media screen and (max-height: 640px) {
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+			</style>
+			<style id="wp-custom-css">
+.woocommerce-message {
+    display: none !important;
+}
+
+</style>
+<style id="kirki-inline-styles"></style>
+	</head>
+
+<body  class="error404 wp-theme-neve theme-neve latepoint woocommerce-no-js  nv-blog-grid nv-sidebar-full-width menu_sidebar_slide_left elementor-default elementor-kit-5" id="neve_body"  >
+<div class="wrapper">
+	<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P5DVPX2V"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+	<header class="header"  >
+		<a class="neve-skip-link show-on-focus" href="#content" >
+			Vai al contenuto		</a>
+		<div id="header-grid"  class="hfg_header site-header">
+	<div class="header--row header-top hide-on-mobile hide-on-tablet layout-fullwidth is_sticky has-center header--row"
+	data-row-id="top" data-show-on="desktop">
+
+	<div
+		class="header--row-inner header-top-inner">
+		<div class="container">
+			<div
+				class="row row--wrapper"
+				data-section="hfg_header_layout_top" >
+				<div class="hfg-slot left"><div class="builder-item has-nav hfg-end"><div class="item--inner builder-item--primary-menu has_menu"
+		data-section="header_menu_primary"
+		data-item-id="primary-menu">
+	<div class="nv-nav-wrap">
+	<div role="navigation" class="nav-menu-primary style-border-bottom m-style sm-style sm-style-border-bottom"
+			aria-label="Menu principale">
+
+		<ul id="nv-primary-navigation-top" class="primary-menu-ul nav-ul menu-desktop"><li id="menu-item-345" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-345"><div class="wrap"><a href="https://ristorantealforte.com/menu/">Menu</a></div></li>
+<li id="menu-item-534" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-534"><div class="wrap"><a href="https://viniverona.com/">Carta Vini</a></div></li>
+<li id="menu-item-348" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-348"><div class="wrap"><a href="https://ristorantealforte.com/configura-menu/">Menu Banchetti</a></div></li>
+</ul>	</div>
+</div>
+
+	</div>
+
+</div></div><div class="hfg-slot center"><div class="builder-item desktop-left"><div class="item--inner builder-item--logo"
+		data-section="title_tagline"
+		data-item-id="logo">
+	
+<div class="site-logo">
+	<a class="brand" href="https://ristorantealforte.com/" aria-label="Ristorante al forte Pastrengo" rel="home"><img width="200" height="197" src="https://ristorantealforte.com/wp-content/uploads/2023/02/cropped-logo.png" class="neve-site-logo skip-lazy" alt="" data-variant="logo" decoding="async" srcset="https://ristorantealforte.com/wp-content/uploads/2023/02/cropped-logo.png 200w, https://ristorantealforte.com/wp-content/uploads/2023/02/cropped-logo-100x100.png 100w" sizes="(max-width: 200px) 100vw, 200px" /></a></div>
+	</div>
+
+</div></div><div class="hfg-slot right"><div class="builder-item desktop-left hfg-start hfg-is-group has-secondary-menu"><div class="item--inner builder-item--secondary-menu has_menu"
+		data-section="secondary_menu_primary"
+		data-item-id="secondary-menu">
+	<div class="nv-top-bar">
+	<div role="navigation" class="menu-content nav-menu-secondary style-border-top m-style"
+		aria-label="Menu secondario">
+		<ul id="secondary-menu-desktop-top" class="nav-ul"><li id="menu-item-903" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-903"><div class="wrap"><a href="https://ristorantealforte.com/prenotazioni/">Prenota un Tavolo</a></div></li>
+<li id="menu-item-516" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-516"><div class="wrap"><a href="https://ristorantealforte.com/eventi/">Eventi</a></div></li>
+<li id="menu-item-515" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-515"><div class="wrap"><a href="https://ristorantealforte.com/contatti/">Contatti</a></div></li>
+</ul>	</div>
+</div>
+
+	</div>
+
+<div class="item--inner builder-item--header_cart_icon"
+		data-section="header_cart_icon"
+		data-item-id="header_cart_icon">
+	
+<div class="component-wrap">
+	<div class="responsive-nav-cart menu-item-nav-cart
+	dropdown cart-is-empty	">
+		<a href="https://ristorantealforte.com/carrello/" class="cart-icon-wrapper">
+						<span class="nv-icon nv-cart"><svg width="18" height="18" viewBox="0 0 1792 1792" xmlns="http://www.w3.org/2000/svg"><path d="M704 1536q0 52-38 90t-90 38-90-38-38-90 38-90 90-38 90 38 38 90zm896 0q0 52-38 90t-90 38-90-38-38-90 38-90 90-38 90 38 38 90zm128-1088v512q0 24-16.5 42.5t-40.5 21.5l-1044 122q13 60 13 70 0 16-24 64h920q26 0 45 19t19 45-19 45-45 19h-1024q-26 0-45-19t-19-45q0-11 8-31.5t16-36 21.5-40 15.5-29.5l-177-823h-204q-26 0-45-19t-19-45 19-45 45-19h256q16 0 28.5 6.5t19.5 15.5 13 24.5 8 26 5.5 29.5 4.5 26h1201q26 0 45 19t19 45z"/></svg></span>			<span class="screen-reader-text">
+				Carrello			</span>
+			<span class="cart-count">
+				0			</span>
+					</a>
+				<div class="nv-nav-cart widget">
+
+			<div class="widget woocommerce widget_shopping_cart"> <div class="hide_cart_widget_if_empty"><div class="widget_shopping_cart_content"></div></div></div>		</div>
+			</div>
+</div>
+
+
+	</div>
+
+</div></div>							</div>
+		</div>
+	</div>
+</div>
+
+
+<nav class="header--row header-main hide-on-desktop layout-full-contained nv-navbar is_sticky has-center header--row"
+	data-row-id="main" data-show-on="mobile">
+
+	<div
+		class="header--row-inner header-main-inner">
+		<div class="container">
+			<div
+				class="row row--wrapper"
+				data-section="hfg_header_layout_main" >
+				<div class="hfg-slot left"><div class="builder-item tablet-left mobile-left"><div class="item--inner builder-item--nav-icon"
+		data-section="header_menu_icon"
+		data-item-id="nav-icon">
+	<div class="menu-mobile-toggle item-button navbar-toggle-wrapper">
+	<button type="button" class=" navbar-toggle"
+			value="Menu di navigazione"
+					aria-label="Menu di navigazione "
+			aria-expanded="false" onclick="if('undefined' !== typeof toggleAriaClick ) { toggleAriaClick() }">
+					<span class="bars">
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			</span>
+					<span class="screen-reader-text">Menu di navigazione</span>
+	</button>
+</div> <!--.navbar-toggle-wrapper-->
+
+
+	</div>
+
+</div></div><div class="hfg-slot center"><div class="builder-item tablet-left mobile-left"><div class="item--inner builder-item--logo"
+		data-section="title_tagline"
+		data-item-id="logo">
+	
+<div class="site-logo">
+	<a class="brand" href="https://ristorantealforte.com/" aria-label="Ristorante al forte Pastrengo" rel="home"><img width="200" height="197" src="https://ristorantealforte.com/wp-content/uploads/2023/02/cropped-logo.png" class="neve-site-logo skip-lazy" alt="" data-variant="logo" decoding="async" srcset="https://ristorantealforte.com/wp-content/uploads/2023/02/cropped-logo.png 200w, https://ristorantealforte.com/wp-content/uploads/2023/02/cropped-logo-100x100.png 100w" sizes="(max-width: 200px) 100vw, 200px" /></a></div>
+	</div>
+
+</div></div><div class="hfg-slot right"><div class="builder-item tablet-left mobile-left"><div class="item--inner builder-item--header_cart_icon"
+		data-section="header_cart_icon"
+		data-item-id="header_cart_icon">
+	
+<div class="component-wrap">
+	<div class="responsive-nav-cart menu-item-nav-cart
+	dropdown cart-is-empty	">
+		<a href="https://ristorantealforte.com/carrello/" class="cart-icon-wrapper">
+						<span class="nv-icon nv-cart"><svg width="18" height="18" viewBox="0 0 1792 1792" xmlns="http://www.w3.org/2000/svg"><path d="M704 1536q0 52-38 90t-90 38-90-38-38-90 38-90 90-38 90 38 38 90zm896 0q0 52-38 90t-90 38-90-38-38-90 38-90 90-38 90 38 38 90zm128-1088v512q0 24-16.5 42.5t-40.5 21.5l-1044 122q13 60 13 70 0 16-24 64h920q26 0 45 19t19 45-19 45-45 19h-1024q-26 0-45-19t-19-45q0-11 8-31.5t16-36 21.5-40 15.5-29.5l-177-823h-204q-26 0-45-19t-19-45 19-45 45-19h256q16 0 28.5 6.5t19.5 15.5 13 24.5 8 26 5.5 29.5 4.5 26h1201q26 0 45 19t19 45z"/></svg></span>			<span class="screen-reader-text">
+				Carrello			</span>
+			<span class="cart-count">
+				0			</span>
+					</a>
+				<div class="nv-nav-cart widget">
+
+			<div class="widget woocommerce widget_shopping_cart"> <div class="hide_cart_widget_if_empty"><div class="widget_shopping_cart_content"></div></div></div>		</div>
+			</div>
+</div>
+
+
+	</div>
+
+</div></div>							</div>
+		</div>
+	</div>
+</nav>
+
+<div
+		id="header-menu-sidebar" class="header-menu-sidebar tcb menu-sidebar-panel slide_left hfg-pe"
+		data-row-id="sidebar">
+	<div id="header-menu-sidebar-bg" class="header-menu-sidebar-bg">
+				<div class="close-sidebar-panel navbar-toggle-wrapper">
+			<button type="button" class="hamburger is-active  navbar-toggle active" 					value="Menu di navigazione"
+					aria-label="Menu di navigazione "
+					aria-expanded="false" onclick="if('undefined' !== typeof toggleAriaClick ) { toggleAriaClick() }">
+								<span class="bars">
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					</span>
+								<span class="screen-reader-text">
+			Menu di navigazione					</span>
+			</button>
+		</div>
+					<div id="header-menu-sidebar-inner" class="header-menu-sidebar-inner tcb ">
+						<div class="builder-item has-nav"><div class="item--inner builder-item--primary-menu has_menu"
+		data-section="header_menu_primary"
+		data-item-id="primary-menu">
+	<div class="nv-nav-wrap">
+	<div role="navigation" class="nav-menu-primary style-border-bottom m-style sm-style sm-style-border-bottom"
+			aria-label="Menu principale">
+
+		<ul id="nv-primary-navigation-sidebar" class="primary-menu-ul nav-ul menu-mobile"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-345"><div class="wrap"><a href="https://ristorantealforte.com/menu/">Menu</a></div></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-534"><div class="wrap"><a href="https://viniverona.com/">Carta Vini</a></div></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-348"><div class="wrap"><a href="https://ristorantealforte.com/configura-menu/">Menu Banchetti</a></div></li>
+</ul>	</div>
+</div>
+
+	</div>
+
+</div><div class="builder-item desktop-left tablet-left mobile-left"><div class="item--inner builder-item--secondary-menu has_menu"
+		data-section="secondary_menu_primary"
+		data-item-id="secondary-menu">
+	<div class="nv-top-bar">
+	<div role="navigation" class="menu-content nav-menu-secondary style-border-top m-style"
+		aria-label="Menu secondario">
+		<ul id="secondary-menu-mobile-sidebar" class="nav-ul"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-903"><div class="wrap"><a href="https://ristorantealforte.com/prenotazioni/">Prenota un Tavolo</a></div></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-516"><div class="wrap"><a href="https://ristorantealforte.com/eventi/">Eventi</a></div></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-515"><div class="wrap"><a href="https://ristorantealforte.com/contatti/">Contatti</a></div></li>
+</ul>	</div>
+</div>
+
+	</div>
+
+</div>					</div>
+	</div>
+</div>
+<div class="header-menu-sidebar-overlay hfg-ov hfg-pe" onclick="if('undefined' !== typeof toggleAriaClick ) { toggleAriaClick() }"></div>
+</div>
+	</header>
+
+	<style>.nav-ul li:focus-within .wrap.active + .sub-menu { opacity: 1; visibility: visible; }.nav-ul li.neve-mega-menu:focus-within .wrap.active + .sub-menu { display: grid; }.nav-ul li > .wrap { display: flex; align-items: center; position: relative; padding: 0 4px; }.nav-ul:not(.menu-mobile):not(.neve-mega-menu) > li > .wrap > a { padding-top: 1px }</style>
+
+	
+	<main id="content" class="neve-main">
+
+<div class="container archive-container"><div class="row"><div class="nv-index-posts blog col"><div class="col-12 nv-content-none-wrap"><p>Sembra che non riusciamo a trovare quello che stavi cercando. Una ricerca nel sito potrebbe aiutarti.</p><div class="nv-seach-form-wrap">
+<form role="search"
+	method="get"
+	class="search-form"
+	action="https://ristorantealforte.com/">
+	<label>
+		<span class="screen-reader-text">Ricerca per ...</span>
+	</label>
+	<input type="search"
+		class="search-field"
+		aria-label="Cerca"
+		placeholder="Ricerca per ..."
+		value=""
+		name="s"/>
+	<button type="submit"
+			class="search-submit nv-submit"
+			aria-label="Cerca">
+					<span class="nv-search-icon-wrap">
+				<span class="nv-icon nv-search" >
+				<svg width="15" height="15" viewbox="0 0 1792 1792" xmlns="http://www.w3.org/2000/svg"><path d="M1216 832q0-185-131.5-316.5t-316.5-131.5-316.5 131.5-131.5 316.5 131.5 316.5 316.5 131.5 316.5-131.5 131.5-316.5zm512 832q0 52-38 90t-90 38q-54 0-90-38l-343-342q-179 124-399 124-143 0-273.5-55.5t-225-150-150-225-55.5-273.5 55.5-273.5 150-225 225-150 273.5-55.5 273.5 55.5 225 150 150 225 55.5 273.5q0 220-124 399l343 343q37 37 37 90z" /></svg>
+			</span>			</span>
+			</button>
+	</form>
+</div></div><div class="w-100"></div></div></div></div>
+</main><!--/.neve-main-->
+
+<button tabindex="0" id="scroll-to-top" class="scroll-to-top scroll-to-top-right  scroll-show-mobile icon" aria-label="Torna su"><svg class="scroll-to-top-icon" aria-hidden="true" role="img" xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 15 15"><rect width="15" height="15" fill="none"/><path fill="currentColor" d="M2,8.48l-.65-.65a.71.71,0,0,1,0-1L7,1.14a.72.72,0,0,1,1,0l5.69,5.7a.71.71,0,0,1,0,1L13,8.48a.71.71,0,0,1-1,0L8.67,4.94v8.42a.7.7,0,0,1-.7.7H7a.7.7,0,0,1-.7-.7V4.94L3,8.47a.7.7,0,0,1-1,0Z"/></svg></button>		<footer data-elementor-type="footer" data-elementor-id="36" class="elementor elementor-36 elementor-location-footer" data-elementor-post-type="elementor_library">
+					<footer class="elementor-section elementor-top-section elementor-element elementor-element-49b3525e elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="49b3525e" data-element_type="section" data-e-type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-1e10bad" data-id="1e10bad" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-6641af72 elementor-widget elementor-widget-image" data-id="6641af72" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+																<a href="https://ristorantealforte.com">
+							<img width="224" height="221" src="https://ristorantealforte.com/wp-content/uploads/2023/02/logo.png" class="attachment-full size-full wp-image-116" alt="" srcset="https://ristorantealforte.com/wp-content/uploads/2023/02/logo.png 224w, https://ristorantealforte.com/wp-content/uploads/2023/02/logo-100x100.png 100w" sizes="(max-width: 224px) 100vw, 224px" />								</a>
+															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-7c10f86c" data-id="7c10f86c" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-25f99924 elementor-widget elementor-widget-heading" data-id="25f99924" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h4 class="elementor-heading-title elementor-size-default">contatti</h4>				</div>
+				</div>
+				<div class="elementor-element elementor-element-1acd51b elementor-widget elementor-widget-text-editor" data-id="1acd51b" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p style="text-align: center;"><a href="https://goo.gl/maps/5batzVCCGjQTMZgC9" target="_blank" rel="noopener"><span style="color: #000000;">Località Telegrafo, 37010 Pastrengo</span></a></p><p style="text-align: center;">       info@ristorantealforte.com</p><p style="text-align: center;"><span style="color: #000000;"><a class="gtag_phone" style="color: #000000;" href="tel:+390457170683">045 7170683</a></span></p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-5f66a9c2 elementor-mobile-align-center elementor-align-center elementor-widget elementor-widget-button" data-id="5f66a9c2" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://ristorantealforte.com/prenotazioni/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Prenota un tavolo ⟶</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-21e07419" data-id="21e07419" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-a8c2e89 elementor-widget elementor-widget-heading" data-id="a8c2e89" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h4 class="elementor-heading-title elementor-size-default">orari</h4>				</div>
+				</div>
+				<div class="elementor-element elementor-element-f71e05d elementor-widget elementor-widget-text-editor" data-id="f71e05d" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p style="text-align: center;">Lunedì &#8211; Martedì<br />CHIUSO</p><p style="text-align: center;">Mercoledì &#8211; Giovedì &#8211; Venerdì &#8211; Sabato &#8211; Domenica<br />12:00 &#8211; 15:00 | 19:00 &#8211; 23:00</p>								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-5ca80e08" data-id="5ca80e08" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-9fb0420 elementor-widget elementor-widget-heading" data-id="9fb0420" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h4 class="elementor-heading-title elementor-size-default">Policy</h4>				</div>
+				</div>
+				<div class="elementor-element elementor-element-581a6ee elementor-widget elementor-widget-text-editor" data-id="581a6ee" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p style="text-align: center;"><span style="color: #000000;"><a style="color: #000000;" href="http://ristorantealforte.com/privacy-policy/" target="_blank" rel="noopener">Privacy e Cookie Policy</a></span><br /><span style="color: #000000;"><a style="color: #000000;" href="http://ristorantealforte.com/termini-e-condizioni/" target="_blank" rel="noopener">Termini e Condizioni</a></span></p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-6c02846 elementor-widget elementor-widget-heading" data-id="6c02846" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h4 class="elementor-heading-title elementor-size-default">design</h4>				</div>
+				</div>
+				<div class="elementor-element elementor-element-554bc36 elementor-widget elementor-widget-text-editor" data-id="554bc36" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p style="text-align: center;">Powered by <span style="color: #000000;"><a style="color: #000000;" href="https://www.bestmenugroup.com/" target="_blank" rel="noopener">Best Menu Group</a></span></p>								</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</footer>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-303af77 elementor-section-height-min-height elementor-section-items-stretch elementor-section-content-middle elementor-section-boxed elementor-section-height-default" data-id="303af77" data-element_type="section" data-e-type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-2bc1d889" data-id="2bc1d889" data-element_type="column" data-e-type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-313608b8 elementor-widget elementor-widget-heading" data-id="313608b8" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h3 class="elementor-heading-title elementor-size-default">RESTA CONNESSO</h3>				</div>
+				</div>
+				<div class="elementor-element elementor-element-c594e1e elementor-shape-circle e-grid-align-left e-grid-align-mobile-center elementor-grid-0 elementor-widget elementor-widget-social-icons" data-id="c594e1e" data-element_type="widget" data-e-type="widget" data-widget_type="social-icons.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-social-icons-wrapper elementor-grid" role="list">
+							<span class="elementor-grid-item" role="listitem">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook elementor-repeater-item-aaf2a0c" href="https://www.facebook.com/RistoranteAlForte/" target="_blank">
+						<span class="elementor-screen-only">Facebook</span>
+						<i aria-hidden="true" class="fab fa-facebook"></i>					</a>
+				</span>
+							<span class="elementor-grid-item" role="listitem">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-instagram elementor-repeater-item-fad5d92" href="https://www.instagram.com/ristorantealfortepastrengo/" target="_blank">
+						<span class="elementor-screen-only">Instagram</span>
+						<i aria-hidden="true" class="fab fa-instagram"></i>					</a>
+				</span>
+							<span class="elementor-grid-item" role="listitem">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-flickr elementor-repeater-item-4aa1ba3" href="https://www.flickr.com/photos/154924765@N08/" target="_blank">
+						<span class="elementor-screen-only">Flickr</span>
+						<i aria-hidden="true" class="fab fa-flickr"></i>					</a>
+				</span>
+							<span class="elementor-grid-item" role="listitem">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-tripadvisor elementor-repeater-item-78d64c6" href="https://www.tripadvisor.it/Restaurant_Review-g1760570-d1943643-Reviews-Ristorante_Al_Forte-Pastrengo_Province_of_Verona_Veneto.html" target="_blank">
+						<span class="elementor-screen-only">Tripadvisor</span>
+						<i aria-hidden="true" class="fab fa-tripadvisor"></i>					</a>
+				</span>
+							<span class="elementor-grid-item" role="listitem">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-heart elementor-repeater-item-783258f" href="https://www.matrimonio.com/ristoranti-ricevimenti/ristorante-al-forte--e6449" target="_blank">
+						<span class="elementor-screen-only">Heart</span>
+						<i aria-hidden="true" class="far fa-heart"></i>					</a>
+				</span>
+					</div>
+						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-7a025913" data-id="7a025913" data-element_type="column" data-e-type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-b4ecd2f elementor-widget elementor-widget-html" data-id="b4ecd2f" data-element_type="widget" data-e-type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+					<div id="wp-ratedWA" style="text-align: center;">
+    <a target="_blank" href="https://www.matrimonio.com/ristoranti-ricevimenti/ristorante-al-forte--e6449" rel="nofollow" title="Ristorante Al Forte, vincitore Wedding Awards 2026 Matrimonio.com">
+        <img width="125" height="125" alt="Ristorante Al Forte, vincitore Wedding Awards 2026 Matrimonio.com" id="wp-ratedWA-img-2026" src="https://cdn1.matrimonio.com/img/badges/2026/badge-weddingawards_it_IT.jpg">
+    </a>
+</div>
+
+<script type="text/javascript" src="https://cdn1.matrimonio.com/_js/wp-rated.js?v=4"></script>
+<script>
+    wpShowRatedWAv3('6449','2026');
+</script>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-ee5a61b" data-id="ee5a61b" data-element_type="column" data-e-type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-56ca58d elementor-widget elementor-widget-html" data-id="56ca58d" data-element_type="widget" data-e-type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+					<div id="wp-ratedWA" style="display: flex; justify-content: center;">
+    <a target="_blank" href="https://www.matrimonio.com/ristoranti-ricevimenti/ristorante-al-forte--e6449" rel="nofollow" title="Ristorante Al Forte, vincitore Wedding Awards 2024 Matrimonio.com">
+        <img loading="lazy" width="125" height="125" alt="Ristorante Al Forte, vincitore Wedding Awards 2024 Matrimonio.com" id="wp-ratedWA-img-2024" src="https://cdn1.matrimonio.com/img/badges/2024/badge-weddingawards_it_IT.jpg">
+    </a>
+</div>
+<script type="text/javascript" src="https://cdn1.matrimonio.com/_js/wp-rated.js?v=4"></script>
+<script>wpShowRatedWAv3('6449','2024');</script>
+				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-cdda485 elementor-section-full_width elementor-section-height-min-height elementor-section-content-middle elementor-section-height-default elementor-section-items-middle" data-id="cdda485" data-element_type="section" data-e-type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-7b12676e" data-id="7b12676e" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-564594d6 elementor-widget elementor-widget-heading" data-id="564594d6" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<p class="elementor-heading-title elementor-size-default">© 2026 Ristorante Al Forte Snc | P.iva 02623110232</p>				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				</footer>
+		
+</div><!--/.wrapper-->
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/neve/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<script id="ckyBannerTemplate" type="text/template"><div class="cky-consent-container cky-hide" tabindex="0"> <div class="cky-consent-bar" data-cky-tag="notice" style="background-color:#FFFFFF;border-color:#f4f4f4"> <button class="cky-banner-btn-close" data-cky-tag="close-button" aria-label="Close"> <img src="https://ristorantealforte.com/wp-content/plugins/cookie-law-info/lite/frontend/images/close.svg" alt="Close"> </button> <div class="cky-notice"> <p class="cky-title" role="heading" aria-level="1" data-cky-tag="title" style="color:#212121">Questo sito utilizza i cookies</p><div class="cky-notice-group"> <div class="cky-notice-des" data-cky-tag="description" style="color:#212121"> <p>I cookies sono piccoli frammenti di testo inviati dal tuo web browser da un sito da te visitato. Un file cookie viene conservato nel tuo web browser e ci permette di riconoscerti e ricordare le tue preferenze. Cliccando su accetto o continuando ad utilizzare il sito acconsenti al nostro uso dei cookies.</p> </div><div class="cky-notice-btn-wrapper" data-cky-tag="notice-buttons">  <button class="cky-btn cky-btn-reject" aria-label="Rifiuta Tutto" data-cky-tag="reject-button" style="color:#B99D8A;background-color:transparent;border-color:#B99D8A">Rifiuta Tutto</button> <button class="cky-btn cky-btn-accept" aria-label="Accetta Tutto" data-cky-tag="accept-button" style="color:#FFFFFF;background-color:#B99D8A;border-color:#B99D8A">Accetta Tutto</button> </div></div></div></div><div class="cky-preference-wrapper" data-cky-tag="detail" style="color:#212121;background-color:#FFFFFF;border-color:#f4f4f4"> <div class="cky-preference-center"> <div class="cky-preference"> <div class="cky-preference-header"> <span class="cky-preference-title" role="heading" aria-level="1" data-cky-tag="detail-title" style="color:#212121">Customize Consent Preferences</span> <button class="cky-btn-close" aria-label="[cky_preference_close_label]" data-cky-tag="detail-close"> <img src="https://ristorantealforte.com/wp-content/plugins/cookie-law-info/lite/frontend/images/close.svg" alt="Close"> </button> </div><div class="cky-preference-body-wrapper"> <div class="cky-preference-content-wrapper" data-cky-tag="detail-description" style="color:#212121"> <p>We use cookies to help you navigate efficiently and perform certain functions. You will find detailed information about all cookies under each consent category below.</p><p>The cookies that are categorized as "Necessary" are stored on your browser as they are essential for enabling the basic functionalities of the site. </p><p>We also use third-party cookies that help us analyze how you use this website, store your preferences, and provide the content and advertisements that are relevant to you. These cookies will only be stored in your browser with your prior consent.</p><p>You can choose to enable or disable some or all of these cookies but disabling some of them may affect your browsing experience.</p> </div><div class="cky-accordion-wrapper" data-cky-tag="detail-categories"> <div class="cky-accordion" id="ckyDetailCategorynecessary"> <div class="cky-accordion-item"> <div class="cky-accordion-chevron"><i class="cky-chevron-right"></i></div> <div class="cky-accordion-header-wrapper"> <div class="cky-accordion-header"><button class="cky-accordion-btn" aria-label="Necessary" data-cky-tag="detail-category-title" style="color:#212121">Necessary</button><span class="cky-always-active">Always Active</span> <div class="cky-switch" data-cky-tag="detail-category-toggle"><input type="checkbox" id="ckySwitchnecessary"></div> </div> <div class="cky-accordion-header-des" data-cky-tag="detail-category-description" style="color:#212121"> <p>Necessary cookies are required to enable the basic features of this site, such as providing secure log-in or adjusting your consent preferences. These cookies do not store any personally identifiable data.</p></div> </div> </div> <div class="cky-accordion-body">  </div> </div><div class="cky-accordion" id="ckyDetailCategoryfunctional"> <div class="cky-accordion-item"> <div class="cky-accordion-chevron"><i class="cky-chevron-right"></i></div> <div class="cky-accordion-header-wrapper"> <div class="cky-accordion-header"><button class="cky-accordion-btn" aria-label="Functional" data-cky-tag="detail-category-title" style="color:#212121">Functional</button><span class="cky-always-active">Always Active</span> <div class="cky-switch" data-cky-tag="detail-category-toggle"><input type="checkbox" id="ckySwitchfunctional"></div> </div> <div class="cky-accordion-header-des" data-cky-tag="detail-category-description" style="color:#212121"> <p>Functional cookies help perform certain functionalities like sharing the content of the website on social media platforms, collecting feedback, and other third-party features.</p></div> </div> </div> <div class="cky-accordion-body">  </div> </div><div class="cky-accordion" id="ckyDetailCategoryanalytics"> <div class="cky-accordion-item"> <div class="cky-accordion-chevron"><i class="cky-chevron-right"></i></div> <div class="cky-accordion-header-wrapper"> <div class="cky-accordion-header"><button class="cky-accordion-btn" aria-label="Analytics" data-cky-tag="detail-category-title" style="color:#212121">Analytics</button><span class="cky-always-active">Always Active</span> <div class="cky-switch" data-cky-tag="detail-category-toggle"><input type="checkbox" id="ckySwitchanalytics"></div> </div> <div class="cky-accordion-header-des" data-cky-tag="detail-category-description" style="color:#212121"> <p>Analytical cookies are used to understand how visitors interact with the website. These cookies help provide information on metrics such as the number of visitors, bounce rate, traffic source, etc.</p></div> </div> </div> <div class="cky-accordion-body">  </div> </div><div class="cky-accordion" id="ckyDetailCategoryperformance"> <div class="cky-accordion-item"> <div class="cky-accordion-chevron"><i class="cky-chevron-right"></i></div> <div class="cky-accordion-header-wrapper"> <div class="cky-accordion-header"><button class="cky-accordion-btn" aria-label="Performance" data-cky-tag="detail-category-title" style="color:#212121">Performance</button><span class="cky-always-active">Always Active</span> <div class="cky-switch" data-cky-tag="detail-category-toggle"><input type="checkbox" id="ckySwitchperformance"></div> </div> <div class="cky-accordion-header-des" data-cky-tag="detail-category-description" style="color:#212121"> <p>Performance cookies are used to understand and analyze the key performance indexes of the website which helps in delivering a better user experience for the visitors.</p></div> </div> </div> <div class="cky-accordion-body">  </div> </div><div class="cky-accordion" id="ckyDetailCategoryadvertisement"> <div class="cky-accordion-item"> <div class="cky-accordion-chevron"><i class="cky-chevron-right"></i></div> <div class="cky-accordion-header-wrapper"> <div class="cky-accordion-header"><button class="cky-accordion-btn" aria-label="Advertisement" data-cky-tag="detail-category-title" style="color:#212121">Advertisement</button><span class="cky-always-active">Always Active</span> <div class="cky-switch" data-cky-tag="detail-category-toggle"><input type="checkbox" id="ckySwitchadvertisement"></div> </div> <div class="cky-accordion-header-des" data-cky-tag="detail-category-description" style="color:#212121"> <p>Advertisement cookies are used to provide visitors with customized advertisements based on the pages you visited previously and to analyze the effectiveness of the ad campaigns.</p></div> </div> </div> <div class="cky-accordion-body">  </div> </div> </div></div></div><div class="cky-footer-wrapper"> <span class="cky-footer-shadow"></span> <div class="cky-prefrence-btn-wrapper" data-cky-tag="detail-buttons"> <button class="cky-btn cky-btn-accept" aria-label="Accetta Tutto" data-cky-tag="detail-accept-button" style="color:#FFFFFF;background-color:#B99D8A;border-color:#B99D8A"> Accetta Tutto </button> <button class="cky-btn cky-btn-preferences" aria-label="Save My Preferences" data-cky-tag="detail-save-button" style="color:#1863DC;background-color:transparent;border-color:#1863DC"> Save My Preferences </button> <button class="cky-btn cky-btn-reject" aria-label="Rifiuta Tutto" data-cky-tag="detail-reject-button" style="color:#B99D8A;background-color:transparent;border-color:#B99D8A"> Rifiuta Tutto </button> </div></div></div></div></div></script><div id="glt-translate-trigger"><span class="notranslate">Translate »</span></div><div id="glt-toolbar"></div><div id="flags" style="display:none" class="size18"><ul id="sortable" class="ui-sortable"><li id="Arabic"><a href="#" title="Arabic" class="nturl notranslate ar flag Arabic"></a></li><li id="Chinese (Simplified)"><a href="#" title="Chinese (Simplified)" class="nturl notranslate zh-CN flag Chinese (Simplified)"></a></li><li id="English"><a href="#" title="English" class="nturl notranslate en flag English"></a></li><li id="French"><a href="#" title="French" class="nturl notranslate fr flag French"></a></li><li id="German"><a href="#" title="German" class="nturl notranslate de flag German"></a></li><li id="Italian"><a href="#" title="Italian" class="nturl notranslate it flag Italian"></a></li><li id="Japanese"><a href="#" title="Japanese" class="nturl notranslate ja flag Japanese"></a></li><li id="Portuguese"><a href="#" title="Portuguese" class="nturl notranslate pt flag Portuguese"></a></li><li id="Russian"><a href="#" title="Russian" class="nturl notranslate ru flag Russian"></a></li><li id="Spanish"><a href="#" title="Spanish" class="nturl notranslate es flag Spanish"></a></li></ul></div><div id='glt-footer'><div id="google_language_translator" class="default-language-it"></div></div><script>function GoogleLanguageTranslatorInit() { new google.translate.TranslateElement({pageLanguage: 'it', includedLanguages:'ar,zh-CN,en,fr,de,it,ja,pt,ru,es', autoDisplay: false}, 'google_language_translator');}</script><script type="text/javascript">var maxAttendees = "20";var serviceAttendees = {"1":"20"};</script>			<!-- Facebook Pixel Code -->
+			<noscript>
+				<img
+					height="1"
+					width="1"
+					style="display:none"
+					alt="fbpx"
+					src="https://www.facebook.com/tr?id=1126906027473811&ev=PageView&noscript=1"
+				/>
+			</noscript>
+			<!-- End Facebook Pixel Code -->
+						<script>
+				const lazyloadRunObserver = () => {
+					const lazyloadBackgrounds = document.querySelectorAll( `.e-con.e-parent:not(.e-lazyloaded)` );
+					const lazyloadBackgroundObserver = new IntersectionObserver( ( entries ) => {
+						entries.forEach( ( entry ) => {
+							if ( entry.isIntersecting ) {
+								let lazyloadBackground = entry.target;
+								if( lazyloadBackground ) {
+									lazyloadBackground.classList.add( 'e-lazyloaded' );
+								}
+								lazyloadBackgroundObserver.unobserve( entry.target );
+							}
+						});
+					}, { rootMargin: '200px 0px 200px 0px' } );
+					lazyloadBackgrounds.forEach( ( lazyloadBackground ) => {
+						lazyloadBackgroundObserver.observe( lazyloadBackground );
+					} );
+				};
+				const events = [
+					'DOMContentLoaded',
+					'elementor/lazyload/observe',
+				];
+				events.forEach( ( event ) => {
+					document.addEventListener( event, lazyloadRunObserver );
+				} );
+			</script>
+				<script>
+		(function () {
+			var c = document.body.className;
+			c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+			document.body.className = c;
+		})();
+	</script>
+	<link rel='stylesheet' id='wc-blocks-style-css' href='https://ristorantealforte.com/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks.css?ver=1775044105' media='all' />
+<style id="core-block-supports-inline-css">
+/**
+ * Core styles: block-supports
+ */
+
+/*# sourceURL=core-block-supports-inline-css */
+</style>
+<script id="neb-track-js" src="https://ristorantealforte.com/wp-content/plugins/neve-pro-addon/includes/modules/elementor_booster/assets/js/track.js?ver=3.2.4"></script>
+<script id="scripts-js" src="https://ristorantealforte.com/wp-content/plugins/google-language-translator/js/scripts.js?ver=6.0.20"></script>
+<script id="scripts-google-js" src="//translate.google.com/translate_a/element.js?cb=GoogleLanguageTranslatorInit"></script>
+<script id="neve-script-js-extra">
+var NeveProperties = {"ajaxurl":"https://ristorantealforte.com/wp-admin/admin-ajax.php","nonce":"e044bb01d7","isRTL":"","isCustomize":""};
+//# sourceURL=neve-script-js-extra
+</script>
+<script id="neve-script-js" src="https://ristorantealforte.com/wp-content/themes/neve/assets/js/build/modern/frontend.js?ver=4.2.3" async></script>
+<script id="neve-script-js-after">
+	var html = document.documentElement;
+	var theme = html.getAttribute('data-neve-theme') || 'light';
+	var variants = {"logo":{"light":{"src":"https:\/\/ristorantealforte.com\/wp-content\/uploads\/2023\/02\/cropped-logo.png","srcset":"https:\/\/ristorantealforte.com\/wp-content\/uploads\/2023\/02\/cropped-logo.png 200w, https:\/\/ristorantealforte.com\/wp-content\/uploads\/2023\/02\/cropped-logo-100x100.png 100w","sizes":"(max-width: 200px) 100vw, 200px"},"dark":{"src":"https:\/\/ristorantealforte.com\/wp-content\/uploads\/2023\/02\/cropped-logo.png","srcset":"https:\/\/ristorantealforte.com\/wp-content\/uploads\/2023\/02\/cropped-logo.png 200w, https:\/\/ristorantealforte.com\/wp-content\/uploads\/2023\/02\/cropped-logo-100x100.png 100w","sizes":"(max-width: 200px) 100vw, 200px"},"same":true},"logo_2":{"light":{"src":false,"srcset":false,"sizes":false},"dark":{"src":false,"srcset":false,"sizes":false},"same":true}};
+
+	function setCurrentTheme( theme ) {
+		var pictures = document.getElementsByClassName( 'neve-site-logo' );
+		for(var i = 0; i<pictures.length; i++) {
+			var picture = pictures.item(i);
+			if( ! picture ) {
+				continue;
+			};
+			var fileExt = picture.src.slice((Math.max(0, picture.src.lastIndexOf(".")) || Infinity) + 1);
+			if ( fileExt === 'svg' ) {
+				picture.removeAttribute('width');
+				picture.removeAttribute('height');
+				picture.style = 'width: var(--maxwidth)';
+			}
+			var compId = picture.getAttribute('data-variant');
+			if ( compId && variants[compId] ) {
+				var isConditional = variants[compId]['same'];
+				if ( theme === 'light' || isConditional || variants[compId]['dark']['src'] === false ) {
+					picture.src = variants[compId]['light']['src'];
+					picture.srcset = variants[compId]['light']['srcset'] || '';
+					picture.sizes = variants[compId]['light']['sizes'];
+					continue;
+				};
+				picture.src = variants[compId]['dark']['src'];
+				picture.srcset = variants[compId]['dark']['srcset'] || '';
+				picture.sizes = variants[compId]['dark']['sizes'];
+			};
+		};
+	};
+
+	var observer = new MutationObserver(function(mutations) {
+		mutations.forEach(function(mutation) {
+			if (mutation.type == 'attributes') {
+				theme = html.getAttribute('data-neve-theme');
+				setCurrentTheme(theme);
+			};
+		});
+	});
+
+	observer.observe(html, {
+		attributes: true
+	});
+function toggleAriaClick() { function toggleAriaExpanded(toggle = 'true') { document.querySelectorAll('button.navbar-toggle').forEach(function(el) { if ( el.classList.contains('caret-wrap') ) { return; } el.setAttribute('aria-expanded', 'true' === el.getAttribute('aria-expanded') ? 'false' : toggle); }); } toggleAriaExpanded(); if ( document.body.hasAttribute('data-ftrap-listener') ) { return; } document.body.setAttribute('data-ftrap-listener', 'true'); document.addEventListener('ftrap-end', function() { toggleAriaExpanded('false'); }); }
+
+			(function($){
+				$('body').on( 'added_to_cart', function(){
+					var responsiveCart = document.querySelector( '.responsive-nav-cart' );
+					if ( responsiveCart ) {
+						responsiveCart.classList.remove('cart-is-empty');
+					}
+				});
+			})(jQuery);
+		
+//# sourceURL=neve-script-js-after
+</script>
+<script id="neve-scroll-to-top-js-extra">
+var neveScrollOffset = {"offset":"0"};
+//# sourceURL=neve-scroll-to-top-js-extra
+</script>
+<script id="neve-scroll-to-top-js" src="https://ristorantealforte.com/wp-content/themes/neve/assets/js/build/modern/scroll-to-top.js?ver=4.2.3" async></script>
+<script id="elementor-webpack-runtime-js" src="https://ristorantealforte.com/wp-content/plugins/elementor/assets/js/webpack.runtime.js?ver=4.0.0"></script>
+<script id="elementor-frontend-modules-js" src="https://ristorantealforte.com/wp-content/plugins/elementor/assets/js/frontend-modules.js?ver=4.0.0"></script>
+<script id="jquery-ui-core-js-before">
+jQuery.uiBackCompat = true;
+//# sourceURL=jquery-ui-core-js-before
+</script>
+<script id="jquery-ui-core-js" src="https://ristorantealforte.com/wp-includes/js/jquery/ui/core.js?ver=1.14.2"></script>
+<script id="elementor-frontend-js-before">
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":true},"i18n":{"shareOnFacebook":"Condividi su Facebook","shareOnTwitter":"Condividi su Twitter","pinIt":"Pinterest","download":"Download","downloadImage":"Scarica immagine","fullscreen":"Schermo intero","zoom":"Zoom","share":"Condividi","playVideo":"Riproduci video","previous":"Precedente","next":"Successivo","close":"Chiudi","a11yCarouselPrevSlideMessage":"Diapositiva precedente","a11yCarouselNextSlideMessage":"Prossima diapositiva","a11yCarouselFirstSlideMessage":"Questa \u00e9 la prima diapositiva","a11yCarouselLastSlideMessage":"Questa \u00e8 l'ultima diapositiva","a11yCarouselPaginationBulletMessage":"Vai alla diapositiva"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet verticale","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet orizzontale","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}},"hasCustomBreakpoints":false},"version":"4.0.0","is_static":false,"experimentalFeatures":{"additional_custom_breakpoints":true,"theme_builder_v2":true,"global_classes_should_enforce_capabilities":true,"e_variables":true,"e_opt_in_v4_page":true,"e_components":true,"e_interactions":true,"e_widget_creation":true,"import-export-customization":true,"e_pro_atomic_form":true,"e_pro_variables":true,"e_pro_interactions":true},"urls":{"assets":"https:\/\/ristorantealforte.com\/wp-content\/plugins\/elementor\/assets\/","ajaxurl":"https:\/\/ristorantealforte.com\/wp-admin\/admin-ajax.php","uploadUrl":"http:\/\/ristorantealforte.com\/wp-content\/uploads"},"nonces":{"floatingButtonsClickTracking":"2108bcf58b","atomicFormsSendForm":"f016c3d324"},"swiperClass":"swiper","settings":{"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description","woocommerce_notices_elements":[]},"post":{"id":0,"title":"Pagina non trovata - Ristorante al forte","excerpt":""}};
+//# sourceURL=elementor-frontend-js-before
+</script>
+<script id="elementor-frontend-js" src="https://ristorantealforte.com/wp-content/plugins/elementor/assets/js/frontend.js?ver=4.0.0"></script>
+<script id="sourcebuster-js-js" src="https://ristorantealforte.com/wp-content/plugins/woocommerce/assets/js/sourcebuster/sourcebuster.js?ver=10.6.2"></script>
+<script id="wc-order-attribution-js-extra">
+var wc_order_attribution = {"params":{"lifetime":1.0000000000000000818030539140313095458623138256371021270751953125e-5,"session":30,"base64":false,"ajaxurl":"https://ristorantealforte.com/wp-admin/admin-ajax.php","prefix":"wc_order_attribution_","allowTracking":true},"fields":{"source_type":"current.typ","referrer":"current_add.rf","utm_campaign":"current.cmp","utm_source":"current.src","utm_medium":"current.mdm","utm_content":"current.cnt","utm_id":"current.id","utm_term":"current.trm","utm_source_platform":"current.plt","utm_creative_format":"current.fmt","utm_marketing_tactic":"current.tct","session_entry":"current_add.ep","session_start_time":"current_add.fd","session_pages":"session.pgs","session_count":"udata.vst","user_agent":"udata.uag"}};
+//# sourceURL=wc-order-attribution-js-extra
+</script>
+<script id="wc-order-attribution-js" src="https://ristorantealforte.com/wp-content/plugins/woocommerce/assets/js/frontend/order-attribution.js?ver=10.6.2"></script>
+<script id="wc-facebook-pixel-events-js" src="https://ristorantealforte.com/wp-content/plugins/facebook-for-woocommerce/assets/js/frontend/pixel-events.js?ver=3.6.2"></script>
+<script id="facebook-capi-param-builder-js" src="https://capi-automation.s3.us-east-2.amazonaws.com/public/client_js/capiParamBuilder/clientParamBuilder.bundle.js"></script>
+<script id="facebook-capi-param-builder-js-after">
+if (typeof clientParamBuilder !== "undefined") {
+					clientParamBuilder.processAndCollectAllParams(window.location.href);
+				}
+//# sourceURL=facebook-capi-param-builder-js-after
+</script>
+<script id="wp-statistics-tracker-js-extra">
+var WP_Statistics_Tracker_Object = {"requestUrl":"https://ristorantealforte.com/wp-json/wp-statistics/v2","ajaxUrl":"https://ristorantealforte.com/wp-admin/admin-ajax.php","hitParams":{"wp_statistics_hit":1,"source_type":"404","source_id":0,"search_query":"","signature":"1c42150374e2ca094233dd46daf12832","endpoint":"hit"},"option":{"dntEnabled":"1","bypassAdBlockers":"","consentIntegration":{"name":null,"status":[]},"isPreview":false,"userOnline":false,"trackAnonymously":false,"isWpConsentApiActive":false,"consentLevel":""},"isLegacyEventLoaded":"","customEventAjaxUrl":"https://ristorantealforte.com/wp-admin/admin-ajax.php?action=wp_statistics_custom_event&nonce=eebd6fd126","onlineParams":{"wp_statistics_hit":1,"source_type":"404","source_id":0,"search_query":"","signature":"1c42150374e2ca094233dd46daf12832","action":"wp_statistics_online_check"},"jsCheckTime":"60000","isConsoleVerbose":"1"};
+//# sourceURL=wp-statistics-tracker-js-extra
+</script>
+<script id="wp-statistics-tracker-js" src="https://ristorantealforte.com/wp-content/plugins/wp-statistics/assets/js/tracker.js?ver=14.16.4"></script>
+<script id="hfg_module-js" src="https://ristorantealforte.com/wp-content/plugins/neve-pro-addon/includes/modules/header_footer_grid/assets/js/build/front-end.js?ver=3.2.4" async></script>
+<script id="facebook-for-woocommerce-inline-js-after">
+/* WooCommerce Facebook Integration Event Tracking */
+fbq('set', 'agent', 'woocommerce_0-10.6.2-3.6.2', '1126906027473811');
+fbq('track', 'PageView', {
+    "source": "woocommerce_0",
+    "version": "10.6.2",
+    "pluginVersion": "3.6.2",
+    "user_data": {}
+}, {
+    "eventID": "9da4f121-af06-433e-8d54-930ad7b2936b"
+});
+//# sourceURL=facebook-for-woocommerce-inline-js-after
+</script>
+<script id="wc-cart-fragments-js-extra">
+var wc_cart_fragments_params = {"ajax_url":"/wp-admin/admin-ajax.php","wc_ajax_url":"/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_69e035568c677f8f6cae8a24c3937d6f","fragment_name":"wc_fragments_69e035568c677f8f6cae8a24c3937d6f","request_timeout":"5000"};
+//# sourceURL=wc-cart-fragments-js-extra
+</script>
+<script data-wp-strategy="defer" defer id="wc-cart-fragments-js" src="https://ristorantealforte.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.js?ver=10.6.2"></script>
+<script id="elementor-pro-webpack-runtime-js" src="https://ristorantealforte.com/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.js?ver=4.0.0"></script>
+<script id="elementor-pro-frontend-js-before">
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/ristorantealforte.com\/wp-admin\/admin-ajax.php","nonce":"cd8153eda1","urls":{"assets":"https:\/\/ristorantealforte.com\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/ristorantealforte.com\/wp-json\/"},"settings":{"lazy_load_background_images":true},"popup":{"hasPopUps":true},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"woocommerce":{"menu_cart":{"cart_page_url":"https:\/\/ristorantealforte.com\/carrello\/","checkout_page_url":"https:\/\/ristorantealforte.com\/pagamento\/","fragments_nonce":"7ba8bf4339"}},"facebook_sdk":{"lang":"it_IT","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/ristorantealforte.com\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+//# sourceURL=elementor-pro-frontend-js-before
+</script>
+<script id="elementor-pro-frontend-js" src="https://ristorantealforte.com/wp-content/plugins/elementor-pro/assets/js/frontend.js?ver=4.0.0"></script>
+<script id="pro-elements-handlers-js" src="https://ristorantealforte.com/wp-content/plugins/elementor-pro/assets/js/elements-handlers.js?ver=4.0.0"></script>
+<script id="wp-emoji-settings" type="application/json">
+{"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"wpemoji":"https://ristorantealforte.com/wp-includes/js/wp-emoji.js?ver=7.1.4","twemoji":"https://ristorantealforte.com/wp-includes/js/twemoji.js?ver=7.1.4"}}
+</script>
+<script type="module">
+/**
+ * @output wp-includes/js/wp-emoji-loader.js
+ */
+
+/* eslint-env es6 */
+
+// Note: This is loaded as a script module, so there is no need for an IIFE to prevent pollution of the global scope.
+
+/**
+ * Emoji Settings as exported in PHP via _print_emoji_detection_script().
+ * @typedef WPEmojiSettings
+ * @type {object}
+ * @property {?object} source
+ * @property {?string} source.concatemoji
+ * @property {?string} source.twemoji
+ * @property {?string} source.wpemoji
+ */
+
+const selector = 'script#wp-emoji-settings';
+const script = document.querySelector( selector );
+if ( ! ( script instanceof HTMLScriptElement ) ) {
+	throw new Error( `Element missing: ${ selector }`);
+}
+const settings = /** @type {WPEmojiSettings} */ ( JSON.parse( script.text ) );
+
+// For compatibility with other scripts that read from this global, in particular wp-includes/js/wp-emoji.js (source file: js/_enqueues/wp/emoji.js).
+window._wpemojiSettings = settings;
+
+/**
+ * Support tests.
+ * @typedef SupportTests
+ * @type {object}
+ * @property {?boolean} flag
+ * @property {?boolean} emoji
+ */
+
+const sessionStorageKey = 'wpEmojiSettingsSupports';
+const tests = [ 'flag', 'emoji' ];
+
+/**
+ * Checks whether the browser supports offloading to a Worker.
+ *
+ * @since 6.3.0
+ *
+ * @private
+ *
+ * @returns {boolean}
+ */
+function supportsWorkerOffloading() {
+	return (
+		typeof Worker !== 'undefined' &&
+		typeof OffscreenCanvas !== 'undefined' &&
+		typeof URL !== 'undefined' &&
+		URL.createObjectURL &&
+		typeof Blob !== 'undefined'
+	);
+}
+
+/**
+ * @typedef SessionSupportTests
+ * @type {object}
+ * @property {number} timestamp
+ * @property {SupportTests} supportTests
+ */
+
+/**
+ * Get support tests from session.
+ *
+ * @since 6.3.0
+ *
+ * @private
+ *
+ * @returns {?SupportTests} Support tests, or null if not set or older than 1 week.
+ */
+function getSessionSupportTests() {
+	try {
+		/** @type {SessionSupportTests} */
+		const item = JSON.parse(
+			sessionStorage.getItem( sessionStorageKey )
+		);
+		if (
+			typeof item === 'object' &&
+			typeof item.timestamp === 'number' &&
+			new Date().valueOf() < item.timestamp + 604800 && // Note: Number is a week in seconds.
+			typeof item.supportTests === 'object'
+		) {
+			return item.supportTests;
+		}
+	} catch ( e ) {}
+	return null;
+}
+
+/**
+ * Persist the supports in session storage.
+ *
+ * @since 6.3.0
+ *
+ * @private
+ *
+ * @param {SupportTests} supportTests Support tests.
+ */
+function setSessionSupportTests( supportTests ) {
+	try {
+		/** @type {SessionSupportTests} */
+		const item = {
+			supportTests: supportTests,
+			timestamp: new Date().valueOf()
+		};
+
+		sessionStorage.setItem(
+			sessionStorageKey,
+			JSON.stringify( item )
+		);
+	} catch ( e ) {}
+}
+
+/**
+ * Checks if two sets of Emoji characters render the same visually.
+ *
+ * This is used to determine if the browser is rendering an emoji with multiple data points
+ * correctly. set1 is the emoji in the correct form, using a zero-width joiner. set2 is the emoji
+ * in the incorrect form, using a zero-width space. If the two sets render the same, then the browser
+ * does not support the emoji correctly.
+ *
+ * This function may be serialized to run in a Worker. Therefore, it cannot refer to variables from the containing
+ * scope. Everything must be passed by parameters.
+ *
+ * @since 4.9.0
+ *
+ * @private
+ *
+ * @param {CanvasRenderingContext2D} context 2D Context.
+ * @param {string} set1 Set of Emoji to test.
+ * @param {string} set2 Set of Emoji to test.
+ *
+ * @return {boolean} True if the two sets render the same.
+ */
+function emojiSetsRenderIdentically( context, set1, set2 ) {
+	// Cleanup from previous test.
+	context.clearRect( 0, 0, context.canvas.width, context.canvas.height );
+	context.fillText( set1, 0, 0 );
+	const rendered1 = new Uint32Array(
+		context.getImageData(
+			0,
+			0,
+			context.canvas.width,
+			context.canvas.height
+		).data
+	);
+
+	// Cleanup from previous test.
+	context.clearRect( 0, 0, context.canvas.width, context.canvas.height );
+	context.fillText( set2, 0, 0 );
+	const rendered2 = new Uint32Array(
+		context.getImageData(
+			0,
+			0,
+			context.canvas.width,
+			context.canvas.height
+		).data
+	);
+
+	return rendered1.every( ( rendered2Data, index ) => {
+		return rendered2Data === rendered2[ index ];
+	} );
+}
+
+/**
+ * Checks if the center point of a single emoji is empty.
+ *
+ * This is used to determine if the browser is rendering an emoji with a single data point
+ * correctly. The center point of an incorrectly rendered emoji will be empty. A correctly
+ * rendered emoji will have a non-zero value at the center point.
+ *
+ * This function may be serialized to run in a Worker. Therefore, it cannot refer to variables from the containing
+ * scope. Everything must be passed by parameters.
+ *
+ * @since 6.8.2
+ *
+ * @private
+ *
+ * @param {CanvasRenderingContext2D} context 2D Context.
+ * @param {string} emoji Emoji to test.
+ *
+ * @return {boolean} True if the center point is empty.
+ */
+function emojiRendersEmptyCenterPoint( context, emoji ) {
+	// Cleanup from previous test.
+	context.clearRect( 0, 0, context.canvas.width, context.canvas.height );
+	context.fillText( emoji, 0, 0 );
+
+	// Test if the center point (16, 16) is empty (0,0,0,0).
+	const centerPoint = context.getImageData(16, 16, 1, 1);
+	for ( let i = 0; i < centerPoint.data.length; i++ ) {
+		if ( centerPoint.data[ i ] !== 0 ) {
+			// Stop checking the moment it's known not to be empty.
+			return false;
+		}
+	}
+
+	return true;
+}
+
+/**
+ * Determines if the browser properly renders Emoji that Twemoji can supplement.
+ *
+ * This function may be serialized to run in a Worker. Therefore, it cannot refer to variables from the containing
+ * scope. Everything must be passed by parameters.
+ *
+ * @since 4.2.0
+ *
+ * @private
+ *
+ * @param {CanvasRenderingContext2D} context 2D Context.
+ * @param {string} type Whether to test for support of "flag" or "emoji".
+ * @param {Function} emojiSetsRenderIdentically Reference to emojiSetsRenderIdentically function, needed due to minification.
+ * @param {Function} emojiRendersEmptyCenterPoint Reference to emojiRendersEmptyCenterPoint function, needed due to minification.
+ *
+ * @return {boolean} True if the browser can render emoji, false if it cannot.
+ */
+function browserSupportsEmoji( context, type, emojiSetsRenderIdentically, emojiRendersEmptyCenterPoint ) {
+	let isIdentical;
+
+	switch ( type ) {
+		case 'flag':
+			/*
+			 * Test for Transgender flag compatibility. Added in Unicode 13.
+			 *
+			 * To test for support, we try to render it, and compare the rendering to how it would look if
+			 * the browser doesn't render it correctly (white flag emoji + transgender symbol).
+			 */
+			isIdentical = emojiSetsRenderIdentically(
+				context,
+				'\uD83C\uDFF3\uFE0F\u200D\u26A7\uFE0F', // as a zero-width joiner sequence
+				'\uD83C\uDFF3\uFE0F\u200B\u26A7\uFE0F' // separated by a zero-width space
+			);
+
+			if ( isIdentical ) {
+				return false;
+			}
+
+			/*
+			 * Test for Sark flag compatibility. This is the least supported of the letter locale flags,
+			 * so gives us an easy test for full support.
+			 *
+			 * To test for support, we try to render it, and compare the rendering to how it would look if
+			 * the browser doesn't render it correctly ([C] + [Q]).
+			 */
+			isIdentical = emojiSetsRenderIdentically(
+				context,
+				'\uD83C\uDDE8\uD83C\uDDF6', // as the sequence of two code points
+				'\uD83C\uDDE8\u200B\uD83C\uDDF6' // as the two code points separated by a zero-width space
+			);
+
+			if ( isIdentical ) {
+				return false;
+			}
+
+			/*
+			 * Test for English flag compatibility. England is a country in the United Kingdom, it
+			 * does not have a two letter locale code but rather a five letter sub-division code.
+			 *
+			 * To test for support, we try to render it, and compare the rendering to how it would look if
+			 * the browser doesn't render it correctly (black flag emoji + [G] + [B] + [E] + [N] + [G]).
+			 */
+			isIdentical = emojiSetsRenderIdentically(
+				context,
+				// as the flag sequence
+				'\uD83C\uDFF4\uDB40\uDC67\uDB40\uDC62\uDB40\uDC65\uDB40\uDC6E\uDB40\uDC67\uDB40\uDC7F',
+				// with each code point separated by a zero-width space
+				'\uD83C\uDFF4\u200B\uDB40\uDC67\u200B\uDB40\uDC62\u200B\uDB40\uDC65\u200B\uDB40\uDC6E\u200B\uDB40\uDC67\u200B\uDB40\uDC7F'
+			);
+
+			return ! isIdentical;
+		case 'emoji':
+			/*
+			 * Is there a large, hairy, humanoid mythical creature living in the browser?
+			 *
+			 * To test for Emoji 17.0 support, try to render a new emoji: Hairy Creature.
+			 *
+			 * The hairy creature emoji is a single code point emoji. Testing for browser
+			 * support required testing the center point of the emoji to see if it is empty.
+			 *
+			 * 0xD83E 0x1FAC8 (\uD83E\u1FAC8) == 🫈 Hairy creature.
+			 *
+			 * When updating this test, please ensure that the emoji is either a single code point
+			 * or switch to using the emojiSetsRenderIdentically function and testing with a zero-width
+			 * joiner vs a zero-width space.
+			 */
+			const notSupported = emojiRendersEmptyCenterPoint( context, '\uD83E\u1FAC8' );
+			return ! notSupported;
+	}
+
+	return false;
+}
+
+/**
+ * Checks emoji support tests.
+ *
+ * This function may be serialized to run in a Worker. Therefore, it cannot refer to variables from the containing
+ * scope. Everything must be passed by parameters.
+ *
+ * @since 6.3.0
+ *
+ * @private
+ *
+ * @param {string[]} tests Tests.
+ * @param {Function} browserSupportsEmoji Reference to browserSupportsEmoji function, needed due to minification.
+ * @param {Function} emojiSetsRenderIdentically Reference to emojiSetsRenderIdentically function, needed due to minification.
+ * @param {Function} emojiRendersEmptyCenterPoint Reference to emojiRendersEmptyCenterPoint function, needed due to minification.
+ *
+ * @return {SupportTests} Support tests.
+ */
+function testEmojiSupports( tests, browserSupportsEmoji, emojiSetsRenderIdentically, emojiRendersEmptyCenterPoint ) {
+	let canvas;
+	if (
+		typeof WorkerGlobalScope !== 'undefined' &&
+		self instanceof WorkerGlobalScope
+	) {
+		canvas = new OffscreenCanvas( 300, 150 ); // Dimensions are default for HTMLCanvasElement.
+	} else {
+		canvas = document.createElement( 'canvas' );
+	}
+
+	const context = canvas.getContext( '2d', { willReadFrequently: true } );
+
+	/*
+	 * Chrome on OS X added native emoji rendering in M41. Unfortunately,
+	 * it doesn't work when the font is bolder than 500 weight. So, we
+	 * check for bold rendering support to avoid invisible emoji in Chrome.
+	 */
+	context.textBaseline = 'top';
+	context.font = '600 32px Arial';
+
+	const supports = {};
+	tests.forEach( ( test ) => {
+		supports[ test ] = browserSupportsEmoji( context, test, emojiSetsRenderIdentically, emojiRendersEmptyCenterPoint );
+	} );
+	return supports;
+}
+
+/**
+ * Adds a script to the head of the document.
+ *
+ * @ignore
+ *
+ * @since 4.2.0
+ *
+ * @param {string} src The url where the script is located.
+ *
+ * @return {void}
+ */
+function addScript( src ) {
+	const script = document.createElement( 'script' );
+	script.src = src;
+	script.defer = true;
+	document.head.appendChild( script );
+}
+
+settings.supports = {
+	everything: true,
+	everythingExceptFlag: true
+};
+
+// Obtain the emoji support from the browser, asynchronously when possible.
+new Promise( ( resolve ) => {
+	let supportTests = getSessionSupportTests();
+	if ( supportTests ) {
+		resolve( supportTests );
+		return;
+	}
+
+	if ( supportsWorkerOffloading() ) {
+		try {
+			// Note that the functions are being passed as arguments due to minification.
+			const workerScript =
+				'postMessage(' +
+				testEmojiSupports.toString() +
+				'(' +
+				[
+					JSON.stringify( tests ),
+					browserSupportsEmoji.toString(),
+					emojiSetsRenderIdentically.toString(),
+					emojiRendersEmptyCenterPoint.toString()
+				].join( ',' ) +
+				'));';
+			const blob = new Blob( [ workerScript ], {
+				type: 'text/javascript'
+			} );
+			const worker = new Worker( URL.createObjectURL( blob ), { name: 'wpTestEmojiSupports' } );
+			worker.onmessage = ( event ) => {
+				supportTests = event.data;
+				setSessionSupportTests( supportTests );
+				worker.terminate();
+				resolve( supportTests );
+			};
+			return;
+		} catch ( e ) {}
+	}
+
+	supportTests = testEmojiSupports( tests, browserSupportsEmoji, emojiSetsRenderIdentically, emojiRendersEmptyCenterPoint );
+	setSessionSupportTests( supportTests );
+	resolve( supportTests );
+} )
+	// Once the browser emoji support has been obtained from the session, finalize the settings.
+	.then( ( supportTests ) => {
+		/*
+		 * Tests the browser support for flag emojis and other emojis, and adjusts the
+		 * support settings accordingly.
+		 */
+		for ( const test in supportTests ) {
+			settings.supports[ test ] = supportTests[ test ];
+
+			settings.supports.everything =
+				settings.supports.everything && settings.supports[ test ];
+
+			if ( 'flag' !== test ) {
+				settings.supports.everythingExceptFlag =
+					settings.supports.everythingExceptFlag &&
+					settings.supports[ test ];
+			}
+		}
+
+		settings.supports.everythingExceptFlag =
+			settings.supports.everythingExceptFlag &&
+			! settings.supports.flag;
+
+		// When the browser can not render everything we need to load a polyfill.
+		if ( ! settings.supports.everything ) {
+			const src = settings.source || {};
+
+			if ( src.concatemoji ) {
+				addScript( src.concatemoji );
+			} else if ( src.wpemoji && src.twemoji ) {
+				addScript( src.twemoji );
+				addScript( src.wpemoji );
+			}
+		}
+	} );
+//# sourceURL=https://ristorantealforte.com/wp-includes/js/wp-emoji-loader.js
+</script>
+</body>
+
+</html>
